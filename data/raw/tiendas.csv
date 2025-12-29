@@ -1,0 +1,31 @@
+CodigoTienda,Descripcion,Direccion,Localidad,Provincia,CP,TipoTienda
+1,ElectroShop Online,Avenida Internet 123,Virtual,Virtual,0.0,Online
+2,Tienda Central,Av. Principal 456,Springfield,Illinois,62701.0,Sucursal
+3,Outlet Norte,Calle Norte 789,Shelbyville,Illinois,62705.0,Sucursal
+4,ElectroShop Sur,Calle Sur 1010,Capital City,Illinois,62710.0,Sucursal
+5,Tienda Premium,Avenida Exclusiva 2020,Raccoon City,Illinois,62715.0,Sucursal
+6,ElectroShop Oeste,Av. Oeste 3030,Sevastopol,Alaska,99901.0,Sucursal
+7,Tienda Express,Torre Stark 4040,New York,New York,10001.0,Online
+8,ElectroShop Este,Calle Este 5050,Gotham City,New Jersey,7001.0,Sucursal
+9,Tienda Online Plus,Avenida Digital 6060,Scranton,Pennsylvania,18501.0,Online
+10,ElectroShop California,Av. California 7070,Palo Alto,California,94301.0,Sucursal
+11,Tienda Norte,,Silver City,Illinois,62701.0,Sucursal
+12,Outlet Sur,Calle Sur 789,,Illinois,62705.0,
+13,ElectroShop Norte,Calle Norte 1050,Capital City,Illinois,,Sucursal
+14,,47 street Av,West City,Illinois,62715.0,Online
+15,ElectroShop Phoenix,2076 River Road,Phoenix,Arizona,85001.0,Sucursal
+16,Online Electronics,Virtual,Virtual,Virtual,0.0,Online
+17,Electronics Austin,8020 River Road,Austin,Texas,73301.0,Sucursal
+18,Outlet Grand Rapids,3618 Oak Street,Grand Rapids,Michigan,49501.0,Sucursal
+19,Tienda Boston Center,8218 Park Avenue,Boston,Massachusetts,2101.0,Sucursal
+20,TechStore Columbus,8737 Oak Street,Columbus,Ohio,43201.0,Sucursal
+21,Online Electronics,Virtual,Virtual,Virtual,0.0,Online
+22,Electronics San Francisco,574 Maple Avenue,San Francisco,California,94102.0,Sucursal
+23,Virtual Store Pro,Virtual,Virtual,Virtual,0.0,Online
+24,ElectroShop Online Plus,Virtual,Virtual,Virtual,0.0,Online
+25,Online Electronics,Virtual,Virtual,Virtual,0.0,Online
+26,Virtual Store Pro,Virtual,Virtual,Virtual,0.0,Online
+27,Outlet Miami,4474 Market Street,Miami,Florida,33101.0,Sucursal
+28,Outlet Philadelphia,4612 Main Street,Philadelphia,Pennsylvania,19101.0,Sucursal
+29,Outlet Seattle,2569 Center Street,Seattle,Washington,98101.0,Sucursal
+30,ElectroShop Online Plus,Virtual,Virtual,Virtual,0.0,Online

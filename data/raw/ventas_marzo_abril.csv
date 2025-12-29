@@ -1,0 +1,1001 @@
+FechaVenta,CodigoProducto,Producto,Cantidad,PrecioVenta,CodigoCliente,Cliente,CodigoTienda,Tienda
+2024-03-02,15,Secadora de Ropa 8kg,3,1130.01,3,Initech,10,ElectroShop California
+2024-03-23,19,Soundbar 2.1 Canales,2,1072.88,2,Globex Corporation,7,Tienda Express
+2024-04-14,14,refrigerador simple puerta,2,800.0,8,Dunder Mifflin,16,Online Electronics
+2024-04-14,20,"Televisor LED 43"" 4K UHD",4,2000.84,29,Jones-Carter,5,Tienda Premium
+2024-03-04,16,Amplificador de Audio,3,882.33,17,Williams Ltd,13,ElectroShop Norte
+2024-03-04,16,Amplificador de Audio,4,1176.44,6,Stark Industries,9,Tienda Online Plus
+2024-03-16,25,Auriculares con Cancelación de Ruido,1,393.14,20,Armstrong-Rice,30,ElectroShop Online Plus
+2024-04-26,22,Consola de Videojuegos,1,455.51,5,Weyland-Yutani,24,ElectroShop Online Plus
+2024-03-12,19,Soundbar 2.1 Canales,1,536.44,9,Pied Piper,5,Tienda Premium
+2024-04-15,6,licuadora 600w,2,140.0,25,Scott-Johnson,3,Outlet Norte
+2024-04-30,19,Soundbar 2.1 Canales,2,1072.88,8,Dunder Mifflin,13,ElectroShop Norte
+2024-03-06,28,Micrófono USB para Streaming,1,303.66,19,Clark LLC,3,Outlet Norte
+2024-03-09,24,Auriculares Inalámbricos Bluetooth,1,462.49,23,"Perkins, Mayo and Richards",1,ElectroShop Online
+2024-04-14,23,Cámara Digital 20MP,5,1281.1,4,Umbrella Corp,2,Tienda Central
+2024-04-26,4,microondas 20l,3,300.0,20,Armstrong-Rice,7,Tienda Express
+2024-03-26,2,lavadora 8kg,1,450.0,5,Weyland-Yutani,6,ElectroShop Oeste
+2024-03-08,7,home theater 5.1,2,400.0,2,Globex Corporation,8,ElectroShop Este
+2024-03-20,15,Secadora de Ropa 8kg,3,1130.01,18,Thompson-Payne,19,Tienda Boston Center
+2024-03-27,5,aspiradora sin bolsa,4,1000.0,18,Thompson-Payne,17,Electronics Austin
+2024-04-14,5,aspiradora sin bolsa,4,1000.0,3,Initech,1,ElectroShop Online
+2024-04-09,20,"Televisor LED 43"" 4K UHD",1,500.21,24,Horton Inc,6,ElectroShop Oeste
+2024-03-13,19,Soundbar 2.1 Canales,2,1072.88,27,Phelps PLC,24,ElectroShop Online Plus
+2024-04-25,20,"Televisor LED 43"" 4K UHD",3,1500.63,8,Dunder Mifflin,4,ElectroShop Sur
+2024-03-16,22,Consola de Videojuegos,5,2277.55,8,Dunder Mifflin,6,ElectroShop Oeste
+2024-04-23,6,licuadora 600w,1,70.0,3,Initech,20,TechStore Columbus
+2024-03-11,1,"televisor led 55""",1,500.0,22,Crosby-Robinson,4,ElectroShop Sur
+2024-04-21,23,Cámara Digital 20MP,2,512.44,5,Weyland-Yutani,23,Virtual Store Pro
+2024-04-18,2,lavadora 8kg,4,1800.0,20,Armstrong-Rice,18,Outlet Grand Rapids
+2024-03-02,21,"Televisor OLED 55"" Smart TV",1,619.15,20,Armstrong-Rice,17,Electronics Austin
+2024-04-16,13,lavadora 10kg,2,1300.0,2,Globex Corporation,22,Electronics San Francisco
+2024-04-22,10,smartwatch,4,600.0,28,Ortiz PLC,25,Online Electronics
+2024-04-04,15,Secadora de Ropa 8kg,1,376.67,7,Wayne Enterprises,12,Outlet Sur
+2024-04-28,28,Micrófono USB para Streaming,2,607.32,15,razon social no informada,11,Tienda Norte
+2024-03-12,25,Auriculares con Cancelación de Ruido,1,393.14,20,Armstrong-Rice,5,Tienda Premium
+2024-04-22,18,Smartphone Plegable 512GB,3,819.51,16,Baker-Johnson,8,ElectroShop Este
+2024-03-28,10,smartwatch,2,300.0,16,Baker-Johnson,28,Outlet Philadelphia
+2024-03-27,25,Auriculares con Cancelación de Ruido,1,393.14,2,Globex Corporation,5,Tienda Premium
+2024-04-03,21,"Televisor OLED 55"" Smart TV",1,619.15,27,Phelps PLC,13,ElectroShop Norte
+2024-03-28,9,"tablet 10""",1,400.0,29,Jones-Carter,9,Tienda Online Plus
+2024-03-24,24,Auriculares Inalámbricos Bluetooth,1,462.49,25,Scott-Johnson,2,Tienda Central
+2024-04-11,5,aspiradora sin bolsa,3,750.0,17,Williams Ltd,6,ElectroShop Oeste
+2024-04-29,30,"Monitor 24"" Full HD",1,730.43,6,Stark Industries,7,Tienda Express
+2024-04-29,17,Smartphone Plegable 512GB,4,717.2,8,Dunder Mifflin,18,Outlet Grand Rapids
+2024-03-03,25,Auriculares con Cancelación de Ruido,2,786.28,16,Baker-Johnson,5,Tienda Premium
+2024-03-22,19,Soundbar 2.1 Canales,2,1072.88,6,Stark Industries,10,ElectroShop California
+2024-03-07,23,Cámara Digital 20MP,1,256.22,10,Hooli,4,ElectroShop Sur
+2024-03-22,4,microondas 20l,1,100.0,5,Weyland-Yutani,12,Outlet Sur
+2024-04-10,5,aspiradora sin bolsa,3,750.0,23,"Perkins, Mayo and Richards",10,ElectroShop California
+2024-03-27,13,lavadora 10kg,4,2600.0,10,Hooli,19,Tienda Boston Center
+2024-04-27,27,"Monitor 24"" Full HD",2,725.26,22,Crosby-Robinson,11,Tienda Norte
+2024-03-24,7,home theater 5.1,1,200.0,29,Jones-Carter,7,Tienda Express
+2024-04-04,2,lavadora 8kg,2,900.0,17,Williams Ltd,21,Online Electronics
+2024-03-08,10,smartwatch,2,300.0,30,Pearson-Grant,15,ElectroShop Phoenix
+2024-03-15,23,Cámara Digital 20MP,3,768.66,20,Armstrong-Rice,20,TechStore Columbus
+2024-03-26,11,phone,1,150.0,8,Dunder Mifflin,16,Online Electronics
+2024-04-01,1,"televisor led 55""",1,500.0,17,Williams Ltd,17,Electronics Austin
+2024-03-04,11,phone,1,150.0,25,Scott-Johnson,21,Online Electronics
+2024-04-28,25,Auriculares con Cancelación de Ruido,1,393.14,7,Wayne Enterprises,7,Tienda Express
+2024-03-06,18,Smartphone Plegable 512GB,1,273.17,28,Ortiz PLC,9,Tienda Online Plus
+2024-03-16,6,licuadora 600w,2,140.0,23,"Perkins, Mayo and Richards",21,Online Electronics
+2024-03-18,11,phone,1,150.0,7,Wayne Enterprises,10,ElectroShop California
+2024-04-19,3,refrigerador doble puerta,1,750.0,22,Crosby-Robinson,27,Outlet Miami
+2024-03-18,24,Auriculares Inalámbricos Bluetooth,3,1387.47,18,Thompson-Payne,1,ElectroShop Online
+2024-04-11,9,"tablet 10""",1,400.0,6,Stark Industries,29,Outlet Seattle
+2024-03-31,20,"Televisor LED 43"" 4K UHD",4,2000.84,28,Ortiz PLC,28,Outlet Philadelphia
+2024-04-17,3,refrigerador doble puerta,2,1500.0,5,Weyland-Yutani,12,Outlet Sur
+2024-03-20,2,lavadora 8kg,1,450.0,18,Thompson-Payne,9,Tienda Online Plus
+2024-03-12,4,microondas 20l,1,100.0,30,Pearson-Grant,15,ElectroShop Phoenix
+2024-04-29,30,"Monitor 24"" Full HD",1,730.43,25,Scott-Johnson,17,Electronics Austin
+2024-03-01,5,aspiradora sin bolsa,1,250.0,4,Umbrella Corp,30,ElectroShop Online Plus
+2024-03-11,17,Smartphone Plegable 512GB,2,358.6,4,Umbrella Corp,26,Virtual Store Pro
+2024-03-02,8,"computadora portátil 15""",2,1300.0,10,Hooli,5,Tienda Premium
+2024-03-28,6,licuadora 600w,3,210.0,23,"Perkins, Mayo and Richards",10,ElectroShop California
+2024-03-16,11,phone,5,750.0,10,Hooli,4,ElectroShop Sur
+2024-04-06,2,lavadora 8kg,3,1350.0,5,Weyland-Yutani,20,TechStore Columbus
+2024-03-21,24,Auriculares Inalámbricos Bluetooth,2,924.98,10,Hooli,10,ElectroShop California
+2024-04-04,2,lavadora 8kg,2,900.0,3,Initech,29,Outlet Seattle
+2024-04-09,22,Consola de Videojuegos,3,1366.53,21,Clark-Rodriguez,19,Tienda Boston Center
+2024-03-25,8,"computadora portátil 15""",3,1950.0,6,Stark Industries,10,ElectroShop California
+2024-04-08,10,smartwatch,5,750.0,17,Williams Ltd,19,Tienda Boston Center
+2024-03-09,19,Soundbar 2.1 Canales,1,536.44,30,Pearson-Grant,25,Online Electronics
+2024-03-19,7,home theater 5.1,2,400.0,7,Wayne Enterprises,7,Tienda Express
+2024-03-22,4,microondas 20l,2,200.0,30,Pearson-Grant,10,ElectroShop California
+2024-03-07,26,Smartphone 128GB 5G,5,2839.8,15,razon social no informada,11,Tienda Norte
+2024-03-03,20,"Televisor LED 43"" 4K UHD",4,2000.84,18,Thompson-Payne,29,Outlet Seattle
+2024-03-18,21,"Televisor OLED 55"" Smart TV",2,1238.3,10,Hooli,9,Tienda Online Plus
+2024-03-23,29,Lavadora 15kg Carga Superior,1,1000.0,22,Crosby-Robinson,3,Outlet Norte
+2024-03-31,5,aspiradora sin bolsa,2,500.0,10,Hooli,15,ElectroShop Phoenix
+2024-03-06,28,Micrófono USB para Streaming,2,607.32,16,Baker-Johnson,16,Online Electronics
+2024-04-26,30,"Monitor 24"" Full HD",3,2191.29,30,Pearson-Grant,18,Outlet Grand Rapids
+2024-03-13,6,licuadora 600w,2,140.0,2,Globex Corporation,4,ElectroShop Sur
+2024-03-17,18,Smartphone Plegable 512GB,2,546.34,17,Williams Ltd,12,Outlet Sur
+2024-03-24,3,refrigerador doble puerta,2,1500.0,10,Hooli,19,Tienda Boston Center
+2024-03-24,7,home theater 5.1,1,200.0,6,Stark Industries,12,Outlet Sur
+2024-03-27,19,Soundbar 2.1 Canales,2,1072.88,3,Initech,3,Outlet Norte
+2024-04-03,19,Soundbar 2.1 Canales,2,1072.88,23,"Perkins, Mayo and Richards",25,Online Electronics
+2024-03-16,1,"televisor led 55""",4,2000.0,23,"Perkins, Mayo and Richards",3,Outlet Norte
+2024-03-09,17,Smartphone Plegable 512GB,3,537.9,1,ACME Corp,4,ElectroShop Sur
+2024-03-01,17,Smartphone Plegable 512GB,1,179.3,26,Willis Ltd,17,Electronics Austin
+2024-03-29,9,"tablet 10""",5,2000.0,10,Hooli,17,Electronics Austin
+2024-04-08,17,Smartphone Plegable 512GB,3,537.9,16,Baker-Johnson,16,Online Electronics
+2024-04-28,5,aspiradora sin bolsa,2,500.0,29,Jones-Carter,29,Outlet Seattle
+2024-04-05,13,lavadora 10kg,4,2600.0,22,Crosby-Robinson,10,ElectroShop California
+2024-03-24,28,Micrófono USB para Streaming,1,303.66,3,Initech,27,Outlet Miami
+2024-03-14,18,Smartphone Plegable 512GB,2,546.34,24,Horton Inc,10,ElectroShop California
+2024-03-23,2,lavadora 8kg,1,450.0,18,Thompson-Payne,21,Online Electronics
+2024-04-01,26,Smartphone 128GB 5G,1,567.96,6,Stark Industries,12,Outlet Sur
+2024-03-07,17,Smartphone Plegable 512GB,2,358.6,26,Willis Ltd,23,Virtual Store Pro
+2024-04-16,30,"Monitor 24"" Full HD",1,730.43,25,Scott-Johnson,10,ElectroShop California
+2024-04-23,27,"Monitor 24"" Full HD",3,1087.89,6,Stark Industries,12,Outlet Sur
+2024-04-24,21,"Televisor OLED 55"" Smart TV",1,619.15,8,Dunder Mifflin,13,ElectroShop Norte
+2024-03-04,14,refrigerador simple puerta,2,800.0,6,Stark Industries,27,Outlet Miami
+2024-03-06,13,lavadora 10kg,1,650.0,18,Thompson-Payne,17,Electronics Austin
+2024-03-20,27,"Monitor 24"" Full HD",1,362.63,22,Crosby-Robinson,19,Tienda Boston Center
+2024-03-26,27,"Monitor 24"" Full HD",3,1087.89,6,Stark Industries,19,Tienda Boston Center
+2024-03-25,14,refrigerador simple puerta,5,2000.0,24,Horton Inc,7,Tienda Express
+2024-04-06,25,Auriculares con Cancelación de Ruido,5,1965.7,16,Baker-Johnson,28,Outlet Philadelphia
+2024-03-14,30,"Monitor 24"" Full HD",2,1460.86,29,Jones-Carter,11,Tienda Norte
+2024-04-23,25,Auriculares con Cancelación de Ruido,3,1179.42,22,Crosby-Robinson,17,Electronics Austin
+2024-04-23,28,Micrófono USB para Streaming,2,607.32,5,Weyland-Yutani,28,Outlet Philadelphia
+2024-04-29,22,Consola de Videojuegos,2,911.02,21,Clark-Rodriguez,12,Outlet Sur
+2024-04-17,24,Auriculares Inalámbricos Bluetooth,3,1387.47,2,Globex Corporation,7,Tienda Express
+2024-04-25,22,Consola de Videojuegos,4,1822.04,2,Globex Corporation,9,Tienda Online Plus
+2024-04-03,4,microondas 20l,2,200.0,4,Umbrella Corp,21,Online Electronics
+2024-04-19,8,"computadora portátil 15""",2,1300.0,18,Thompson-Payne,24,ElectroShop Online Plus
+2024-03-18,9,"tablet 10""",4,1600.0,6,Stark Industries,27,Outlet Miami
+2024-03-23,24,Auriculares Inalámbricos Bluetooth,1,462.49,22,Crosby-Robinson,4,ElectroShop Sur
+2024-03-01,25,Auriculares con Cancelación de Ruido,1,393.14,29,Jones-Carter,26,Virtual Store Pro
+2024-03-19,1,"televisor led 55""",1,500.0,9,Pied Piper,29,Outlet Seattle
+2024-03-11,28,Micrófono USB para Streaming,1,303.66,20,Armstrong-Rice,5,Tienda Premium
+2024-04-07,11,phone,1,150.0,18,Thompson-Payne,16,Online Electronics
+2024-04-26,5,aspiradora sin bolsa,2,500.0,2,Globex Corporation,10,ElectroShop California
+2024-04-06,3,refrigerador doble puerta,3,2250.0,15,razon social no informada,6,ElectroShop Oeste
+2024-04-26,23,Cámara Digital 20MP,2,512.44,17,Williams Ltd,4,ElectroShop Sur
+2024-03-11,6,licuadora 600w,1,70.0,6,Stark Industries,24,ElectroShop Online Plus
+2024-04-10,19,Soundbar 2.1 Canales,1,536.44,9,Pied Piper,11,Tienda Norte
+2024-04-09,17,Smartphone Plegable 512GB,1,179.3,24,Horton Inc,17,Electronics Austin
+2024-04-18,18,Smartphone Plegable 512GB,2,546.34,27,Phelps PLC,28,Outlet Philadelphia
+2024-03-20,19,Soundbar 2.1 Canales,1,536.44,19,Clark LLC,16,Online Electronics
+2024-04-05,5,aspiradora sin bolsa,1,250.0,10,Hooli,3,Outlet Norte
+2024-03-31,21,"Televisor OLED 55"" Smart TV",4,2476.6,18,Thompson-Payne,11,Tienda Norte
+2024-04-28,30,"Monitor 24"" Full HD",1,730.43,22,Crosby-Robinson,5,Tienda Premium
+2024-03-20,10,smartwatch,1,150.0,17,Williams Ltd,4,ElectroShop Sur
+2024-03-29,28,Micrófono USB para Streaming,1,303.66,27,Phelps PLC,18,Outlet Grand Rapids
+2024-03-18,15,Secadora de Ropa 8kg,5,1883.35,29,Jones-Carter,21,Online Electronics
+2024-04-14,4,microondas 20l,1,100.0,15,razon social no informada,3,Outlet Norte
+2024-03-08,17,Smartphone Plegable 512GB,1,179.3,30,Pearson-Grant,8,ElectroShop Este
+2024-04-24,9,"tablet 10""",1,400.0,23,"Perkins, Mayo and Richards",16,Online Electronics
+2024-04-23,10,smartwatch,1,150.0,23,"Perkins, Mayo and Richards",13,ElectroShop Norte
+2024-04-20,16,Amplificador de Audio,5,1470.55,1,ACME Corp,30,ElectroShop Online Plus
+2024-04-16,23,Cámara Digital 20MP,3,768.66,7,Wayne Enterprises,29,Outlet Seattle
+2024-03-26,9,"tablet 10""",2,800.0,1,ACME Corp,22,Electronics San Francisco
+2024-03-22,21,"Televisor OLED 55"" Smart TV",5,3095.75,8,Dunder Mifflin,26,Virtual Store Pro
+2024-04-11,14,refrigerador simple puerta,2,800.0,21,Clark-Rodriguez,15,ElectroShop Phoenix
+2024-04-15,27,"Monitor 24"" Full HD",1,362.63,5,Weyland-Yutani,15,ElectroShop Phoenix
+2024-04-11,13,lavadora 10kg,2,1300.0,16,Baker-Johnson,20,TechStore Columbus
+2024-03-16,10,smartwatch,1,150.0,15,razon social no informada,19,Tienda Boston Center
+2024-04-27,2,lavadora 8kg,4,1800.0,4,Umbrella Corp,3,Outlet Norte
+2024-03-04,23,Cámara Digital 20MP,3,768.66,10,Hooli,30,ElectroShop Online Plus
+2024-04-13,13,lavadora 10kg,3,1950.0,10,Hooli,11,Tienda Norte
+2024-03-31,9,"tablet 10""",1,400.0,8,Dunder Mifflin,25,Online Electronics
+2024-03-09,30,"Monitor 24"" Full HD",1,730.43,6,Stark Industries,2,Tienda Central
+2024-03-18,13,lavadora 10kg,3,1950.0,20,Armstrong-Rice,12,Outlet Sur
+2024-04-28,19,Soundbar 2.1 Canales,4,2145.76,5,Weyland-Yutani,23,Virtual Store Pro
+2024-04-17,9,"tablet 10""",1,400.0,28,Ortiz PLC,2,Tienda Central
+2024-04-19,23,Cámara Digital 20MP,2,512.44,16,Baker-Johnson,12,Outlet Sur
+2024-03-31,26,Smartphone 128GB 5G,4,2271.84,22,Crosby-Robinson,6,ElectroShop Oeste
+2024-03-03,28,Micrófono USB para Streaming,2,607.32,29,Jones-Carter,9,Tienda Online Plus
+2024-04-30,1,"televisor led 55""",2,1000.0,21,Clark-Rodriguez,1,ElectroShop Online
+2024-04-22,16,Amplificador de Audio,2,588.22,22,Crosby-Robinson,28,Outlet Philadelphia
+2024-04-02,10,smartwatch,1,150.0,18,Thompson-Payne,19,Tienda Boston Center
+2024-03-04,1,"televisor led 55""",4,2000.0,9,Pied Piper,30,ElectroShop Online Plus
+2024-04-14,26,Smartphone 128GB 5G,2,1135.92,22,Crosby-Robinson,22,Electronics San Francisco
+2024-04-17,26,Smartphone 128GB 5G,2,1135.92,2,Globex Corporation,14,sin descripcion
+2024-04-14,7,home theater 5.1,1,200.0,2,Globex Corporation,7,Tienda Express
+2024-04-06,8,"computadora portátil 15""",1,650.0,24,Horton Inc,10,ElectroShop California
+2024-03-28,15,Secadora de Ropa 8kg,1,376.67,14,Biohazard Inc,28,Outlet Philadelphia
+2024-04-12,29,Lavadora 15kg Carga Superior,2,2000.0,26,Willis Ltd,8,ElectroShop Este
+2024-04-24,26,Smartphone 128GB 5G,2,1135.92,26,Willis Ltd,23,Virtual Store Pro
+2024-04-24,17,Smartphone Plegable 512GB,1,179.3,4,Umbrella Corp,5,Tienda Premium
+2024-03-12,19,Soundbar 2.1 Canales,2,1072.88,25,Scott-Johnson,28,Outlet Philadelphia
+2024-04-09,28,Micrófono USB para Streaming,1,303.66,3,Initech,26,Virtual Store Pro
+2024-04-30,18,Smartphone Plegable 512GB,2,546.34,19,Clark LLC,6,ElectroShop Oeste
+2024-03-25,10,smartwatch,1,150.0,23,"Perkins, Mayo and Richards",10,ElectroShop California
+2024-03-19,7,home theater 5.1,2,400.0,18,Thompson-Payne,27,Outlet Miami
+2024-03-14,27,"Monitor 24"" Full HD",3,1087.89,1,ACME Corp,23,Virtual Store Pro
+2024-04-10,21,"Televisor OLED 55"" Smart TV",1,619.15,19,Clark LLC,10,ElectroShop California
+2024-03-22,9,"tablet 10""",1,400.0,23,"Perkins, Mayo and Richards",28,Outlet Philadelphia
+2024-04-23,1,"televisor led 55""",4,2000.0,1,ACME Corp,20,TechStore Columbus
+2024-04-22,25,Auriculares con Cancelación de Ruido,1,393.14,28,Ortiz PLC,10,ElectroShop California
+2024-04-23,22,Consola de Videojuegos,2,911.02,8,Dunder Mifflin,8,ElectroShop Este
+2024-03-26,17,Smartphone Plegable 512GB,1,179.3,29,Jones-Carter,18,Outlet Grand Rapids
+2024-03-24,11,phone,1,150.0,2,Globex Corporation,4,ElectroShop Sur
+2024-04-05,17,Smartphone Plegable 512GB,1,179.3,18,Thompson-Payne,12,Outlet Sur
+2024-03-18,18,Smartphone Plegable 512GB,2,546.34,6,Stark Industries,19,Tienda Boston Center
+2024-03-25,5,aspiradora sin bolsa,3,750.0,23,"Perkins, Mayo and Richards",15,ElectroShop Phoenix
+2024-03-08,30,"Monitor 24"" Full HD",1,730.43,4,Umbrella Corp,27,Outlet Miami
+2024-03-11,3,refrigerador doble puerta,2,1500.0,19,Clark LLC,16,Online Electronics
+2024-04-22,27,"Monitor 24"" Full HD",2,725.26,19,Clark LLC,10,ElectroShop California
+2024-04-13,22,Consola de Videojuegos,1,455.51,16,Baker-Johnson,18,Outlet Grand Rapids
+2024-03-07,14,refrigerador simple puerta,5,2000.0,14,Biohazard Inc,18,Outlet Grand Rapids
+2024-03-08,28,Micrófono USB para Streaming,1,303.66,24,Horton Inc,6,ElectroShop Oeste
+2024-04-19,7,home theater 5.1,5,1000.0,23,"Perkins, Mayo and Richards",8,ElectroShop Este
+2024-04-22,27,"Monitor 24"" Full HD",1,362.63,20,Armstrong-Rice,19,Tienda Boston Center
+2024-04-06,30,"Monitor 24"" Full HD",1,730.43,2,Globex Corporation,15,ElectroShop Phoenix
+2024-03-05,20,"Televisor LED 43"" 4K UHD",2,1000.42,7,Wayne Enterprises,21,Online Electronics
+2024-04-16,1,"televisor led 55""",2,1000.0,7,Wayne Enterprises,23,Virtual Store Pro
+2024-04-01,10,smartwatch,2,300.0,16,Baker-Johnson,16,Online Electronics
+2024-04-08,8,"computadora portátil 15""",2,1300.0,20,Armstrong-Rice,4,ElectroShop Sur
+2024-04-03,22,Consola de Videojuegos,2,911.02,14,Biohazard Inc,10,ElectroShop California
+2024-03-15,8,"computadora portátil 15""",5,3250.0,30,Pearson-Grant,19,Tienda Boston Center
+2024-04-10,21,"Televisor OLED 55"" Smart TV",4,2476.6,25,Scott-Johnson,24,ElectroShop Online Plus
+2024-03-22,4,microondas 20l,1,100.0,9,Pied Piper,12,Outlet Sur
+2024-04-20,2,lavadora 8kg,3,1350.0,29,Jones-Carter,24,ElectroShop Online Plus
+2024-03-03,7,home theater 5.1,1,200.0,8,Dunder Mifflin,29,Outlet Seattle
+2024-03-28,27,"Monitor 24"" Full HD",3,1087.89,20,Armstrong-Rice,27,Outlet Miami
+2024-04-08,6,licuadora 600w,1,70.0,3,Initech,20,TechStore Columbus
+2024-03-24,11,phone,1,150.0,24,Horton Inc,18,Outlet Grand Rapids
+2024-03-10,21,"Televisor OLED 55"" Smart TV",1,619.15,5,Weyland-Yutani,14,sin descripcion
+2024-04-17,14,refrigerador simple puerta,2,800.0,30,Pearson-Grant,18,Outlet Grand Rapids
+2024-04-24,3,refrigerador doble puerta,1,750.0,30,Pearson-Grant,20,TechStore Columbus
+2024-04-18,13,lavadora 10kg,3,1950.0,23,"Perkins, Mayo and Richards",30,ElectroShop Online Plus
+2024-03-08,29,Lavadora 15kg Carga Superior,1,1000.0,18,Thompson-Payne,23,Virtual Store Pro
+2024-03-28,24,Auriculares Inalámbricos Bluetooth,2,924.98,25,Scott-Johnson,9,Tienda Online Plus
+2024-03-21,27,"Monitor 24"" Full HD",1,362.63,24,Horton Inc,18,Outlet Grand Rapids
+2024-04-23,2,lavadora 8kg,1,450.0,23,"Perkins, Mayo and Richards",1,ElectroShop Online
+2024-04-02,11,phone,1,150.0,28,Ortiz PLC,8,ElectroShop Este
+2024-03-15,3,refrigerador doble puerta,4,3000.0,10,Hooli,24,ElectroShop Online Plus
+2024-03-22,17,Smartphone Plegable 512GB,1,179.3,15,razon social no informada,18,Outlet Grand Rapids
+2024-04-17,29,Lavadora 15kg Carga Superior,3,3000.0,28,Ortiz PLC,13,ElectroShop Norte
+2024-03-02,4,microondas 20l,1,100.0,22,Crosby-Robinson,8,ElectroShop Este
+2024-04-14,25,Auriculares con Cancelación de Ruido,4,1572.56,16,Baker-Johnson,26,Virtual Store Pro
+2024-04-26,19,Soundbar 2.1 Canales,3,1609.32,3,Initech,21,Online Electronics
+2024-03-31,7,home theater 5.1,2,400.0,14,Biohazard Inc,5,Tienda Premium
+2024-03-30,3,refrigerador doble puerta,2,1500.0,15,razon social no informada,5,Tienda Premium
+2024-04-19,24,Auriculares Inalámbricos Bluetooth,2,924.98,4,Umbrella Corp,25,Online Electronics
+2024-04-27,7,home theater 5.1,2,400.0,2,Globex Corporation,1,ElectroShop Online
+2024-03-02,22,Consola de Videojuegos,1,455.51,28,Ortiz PLC,9,Tienda Online Plus
+2024-03-08,30,"Monitor 24"" Full HD",2,1460.86,23,"Perkins, Mayo and Richards",12,Outlet Sur
+2024-03-13,1,"televisor led 55""",1,500.0,20,Armstrong-Rice,15,ElectroShop Phoenix
+2024-04-29,16,Amplificador de Audio,1,294.11,23,"Perkins, Mayo and Richards",9,Tienda Online Plus
+2024-03-11,14,refrigerador simple puerta,2,800.0,16,Baker-Johnson,1,ElectroShop Online
+2024-04-30,11,phone,1,150.0,4,Umbrella Corp,23,Virtual Store Pro
+2024-04-07,4,microondas 20l,1,100.0,18,Thompson-Payne,30,ElectroShop Online Plus
+2024-03-05,8,"computadora portátil 15""",1,650.0,9,Pied Piper,21,Online Electronics
+2024-03-12,1,"televisor led 55""",1,500.0,6,Stark Industries,24,ElectroShop Online Plus
+2024-03-06,22,Consola de Videojuegos,2,911.02,20,Armstrong-Rice,13,ElectroShop Norte
+2024-03-26,5,aspiradora sin bolsa,2,500.0,28,Ortiz PLC,19,Tienda Boston Center
+2024-03-02,8,"computadora portátil 15""",5,3250.0,20,Armstrong-Rice,11,Tienda Norte
+2024-03-06,25,Auriculares con Cancelación de Ruido,1,393.14,9,Pied Piper,12,Outlet Sur
+2024-03-31,6,licuadora 600w,1,70.0,24,Horton Inc,8,ElectroShop Este
+2024-03-17,28,Micrófono USB para Streaming,2,607.32,21,Clark-Rodriguez,16,Online Electronics
+2024-04-23,7,home theater 5.1,3,600.0,5,Weyland-Yutani,12,Outlet Sur
+2024-04-28,5,aspiradora sin bolsa,3,750.0,18,Thompson-Payne,29,Outlet Seattle
+2024-03-16,15,Secadora de Ropa 8kg,1,376.67,27,Phelps PLC,14,sin descripcion
+2024-03-13,19,Soundbar 2.1 Canales,2,1072.88,6,Stark Industries,11,Tienda Norte
+2024-04-03,23,Cámara Digital 20MP,4,1024.88,18,Thompson-Payne,9,Tienda Online Plus
+2024-04-03,5,aspiradora sin bolsa,2,500.0,24,Horton Inc,29,Outlet Seattle
+2024-04-16,25,Auriculares con Cancelación de Ruido,1,393.14,23,"Perkins, Mayo and Richards",6,ElectroShop Oeste
+2024-04-18,20,"Televisor LED 43"" 4K UHD",5,2501.05,4,Umbrella Corp,19,Tienda Boston Center
+2024-04-27,8,"computadora portátil 15""",2,1300.0,7,Wayne Enterprises,13,ElectroShop Norte
+2024-04-04,23,Cámara Digital 20MP,1,256.22,1,ACME Corp,13,ElectroShop Norte
+2024-03-28,23,Cámara Digital 20MP,5,1281.1,10,Hooli,9,Tienda Online Plus
+2024-03-04,30,"Monitor 24"" Full HD",3,2191.29,7,Wayne Enterprises,24,ElectroShop Online Plus
+2024-03-25,1,"televisor led 55""",3,1500.0,16,Baker-Johnson,10,ElectroShop California
+2024-04-19,11,phone,1,150.0,26,Willis Ltd,28,Outlet Philadelphia
+2024-03-04,7,home theater 5.1,2,400.0,27,Phelps PLC,26,Virtual Store Pro
+2024-03-04,25,Auriculares con Cancelación de Ruido,3,1179.42,21,Clark-Rodriguez,11,Tienda Norte
+2024-03-31,29,Lavadora 15kg Carga Superior,2,2000.0,27,Phelps PLC,27,Outlet Miami
+2024-03-28,18,Smartphone Plegable 512GB,3,819.51,14,Biohazard Inc,22,Electronics San Francisco
+2024-04-10,2,lavadora 8kg,3,1350.0,2,Globex Corporation,30,ElectroShop Online Plus
+2024-03-26,2,lavadora 8kg,2,900.0,17,Williams Ltd,19,Tienda Boston Center
+2024-03-26,2,lavadora 8kg,1,450.0,14,Biohazard Inc,3,Outlet Norte
+2024-04-06,22,Consola de Videojuegos,2,911.02,14,Biohazard Inc,17,Electronics Austin
+2024-04-18,1,"televisor led 55""",1,500.0,16,Baker-Johnson,5,Tienda Premium
+2024-04-10,15,Secadora de Ropa 8kg,1,376.67,19,Clark LLC,20,TechStore Columbus
+2024-04-26,6,licuadora 600w,2,140.0,30,Pearson-Grant,1,ElectroShop Online
+2024-04-05,2,lavadora 8kg,3,1350.0,15,razon social no informada,18,Outlet Grand Rapids
+2024-04-07,13,lavadora 10kg,3,1950.0,3,Initech,3,Outlet Norte
+2024-04-05,4,microondas 20l,1,100.0,26,Willis Ltd,14,sin descripcion
+2024-03-06,17,Smartphone Plegable 512GB,2,358.6,15,razon social no informada,13,ElectroShop Norte
+2024-04-01,24,Auriculares Inalámbricos Bluetooth,1,462.49,14,Biohazard Inc,21,Online Electronics
+2024-04-13,15,Secadora de Ropa 8kg,2,753.34,29,Jones-Carter,2,Tienda Central
+2024-03-07,19,Soundbar 2.1 Canales,1,536.44,21,Clark-Rodriguez,12,Outlet Sur
+2024-04-24,23,Cámara Digital 20MP,3,768.66,17,Williams Ltd,19,Tienda Boston Center
+2024-03-06,1,"televisor led 55""",5,2500.0,1,ACME Corp,13,ElectroShop Norte
+2024-03-29,13,lavadora 10kg,1,650.0,25,Scott-Johnson,30,ElectroShop Online Plus
+2024-03-28,8,"computadora portátil 15""",2,1300.0,6,Stark Industries,26,Virtual Store Pro
+2024-04-27,28,Micrófono USB para Streaming,3,910.98,30,Pearson-Grant,23,Virtual Store Pro
+2024-03-26,2,lavadora 8kg,1,450.0,3,Initech,16,Online Electronics
+2024-04-25,27,"Monitor 24"" Full HD",1,362.63,24,Horton Inc,18,Outlet Grand Rapids
+2024-04-01,18,Smartphone Plegable 512GB,2,546.34,24,Horton Inc,14,sin descripcion
+2024-03-13,18,Smartphone Plegable 512GB,2,546.34,19,Clark LLC,28,Outlet Philadelphia
+2024-03-10,21,"Televisor OLED 55"" Smart TV",1,619.15,23,"Perkins, Mayo and Richards",2,Tienda Central
+2024-04-07,7,home theater 5.1,1,200.0,15,razon social no informada,1,ElectroShop Online
+2024-04-11,16,Amplificador de Audio,2,588.22,30,Pearson-Grant,14,sin descripcion
+2024-04-20,2,lavadora 8kg,3,1350.0,6,Stark Industries,19,Tienda Boston Center
+2024-04-19,2,lavadora 8kg,3,1350.0,30,Pearson-Grant,13,ElectroShop Norte
+2024-03-09,17,Smartphone Plegable 512GB,3,537.9,5,Weyland-Yutani,19,Tienda Boston Center
+2024-03-25,29,Lavadora 15kg Carga Superior,2,2000.0,23,"Perkins, Mayo and Richards",5,Tienda Premium
+2024-04-08,2,lavadora 8kg,1,450.0,28,Ortiz PLC,9,Tienda Online Plus
+2024-04-30,29,Lavadora 15kg Carga Superior,1,1000.0,10,Hooli,13,ElectroShop Norte
+2024-04-15,20,"Televisor LED 43"" 4K UHD",1,500.21,22,Crosby-Robinson,19,Tienda Boston Center
+2024-03-29,2,lavadora 8kg,3,1350.0,9,Pied Piper,9,Tienda Online Plus
+2024-04-15,30,"Monitor 24"" Full HD",2,1460.86,14,Biohazard Inc,29,Outlet Seattle
+2024-04-03,17,Smartphone Plegable 512GB,2,358.6,4,Umbrella Corp,15,ElectroShop Phoenix
+2024-03-03,17,Smartphone Plegable 512GB,2,358.6,30,Pearson-Grant,12,Outlet Sur
+2024-04-14,9,"tablet 10""",4,1600.0,8,Dunder Mifflin,1,ElectroShop Online
+2024-04-19,14,refrigerador simple puerta,1,400.0,16,Baker-Johnson,19,Tienda Boston Center
+2024-03-19,28,Micrófono USB para Streaming,1,303.66,23,"Perkins, Mayo and Richards",25,Online Electronics
+2024-04-22,23,Cámara Digital 20MP,3,768.66,14,Biohazard Inc,9,Tienda Online Plus
+2024-03-30,4,microondas 20l,4,400.0,22,Crosby-Robinson,6,ElectroShop Oeste
+2024-03-19,28,Micrófono USB para Streaming,2,607.32,22,Crosby-Robinson,26,Virtual Store Pro
+2024-03-28,19,Soundbar 2.1 Canales,1,536.44,27,Phelps PLC,26,Virtual Store Pro
+2024-03-12,4,microondas 20l,1,100.0,2,Globex Corporation,13,ElectroShop Norte
+2024-03-11,10,smartwatch,1,150.0,19,Clark LLC,26,Virtual Store Pro
+2024-04-02,3,refrigerador doble puerta,3,2250.0,4,Umbrella Corp,23,Virtual Store Pro
+2024-03-31,29,Lavadora 15kg Carga Superior,1,1000.0,10,Hooli,4,ElectroShop Sur
+2024-04-17,5,aspiradora sin bolsa,2,500.0,8,Dunder Mifflin,25,Online Electronics
+2024-03-17,17,Smartphone Plegable 512GB,1,179.3,6,Stark Industries,19,Tienda Boston Center
+2024-03-23,17,Smartphone Plegable 512GB,1,179.3,3,Initech,23,Virtual Store Pro
+2024-03-31,25,Auriculares con Cancelación de Ruido,2,786.28,2,Globex Corporation,27,Outlet Miami
+2024-03-11,13,lavadora 10kg,1,650.0,20,Armstrong-Rice,5,Tienda Premium
+2024-03-23,19,Soundbar 2.1 Canales,5,2682.2,26,Willis Ltd,18,Outlet Grand Rapids
+2024-03-13,10,smartwatch,4,600.0,20,Armstrong-Rice,27,Outlet Miami
+2024-04-10,16,Amplificador de Audio,3,882.33,6,Stark Industries,4,ElectroShop Sur
+2024-04-20,14,refrigerador simple puerta,1,400.0,17,Williams Ltd,12,Outlet Sur
+2024-04-13,3,refrigerador doble puerta,1,750.0,20,Armstrong-Rice,4,ElectroShop Sur
+2024-03-10,21,"Televisor OLED 55"" Smart TV",1,619.15,15,razon social no informada,1,ElectroShop Online
+2024-04-15,3,refrigerador doble puerta,5,3750.0,24,Horton Inc,29,Outlet Seattle
+2024-03-25,16,Amplificador de Audio,4,1176.44,9,Pied Piper,30,ElectroShop Online Plus
+2024-04-27,4,microondas 20l,3,300.0,28,Ortiz PLC,17,Electronics Austin
+2024-04-10,5,aspiradora sin bolsa,3,750.0,26,Willis Ltd,22,Electronics San Francisco
+2024-04-20,13,lavadora 10kg,1,650.0,29,Jones-Carter,1,ElectroShop Online
+2024-04-29,14,refrigerador simple puerta,1,400.0,6,Stark Industries,25,Online Electronics
+2024-04-06,13,lavadora 10kg,2,1300.0,3,Initech,20,TechStore Columbus
+2024-04-05,24,Auriculares Inalámbricos Bluetooth,2,924.98,19,Clark LLC,17,Electronics Austin
+2024-03-12,21,"Televisor OLED 55"" Smart TV",3,1857.45,21,Clark-Rodriguez,2,Tienda Central
+2024-03-31,4,microondas 20l,1,100.0,23,"Perkins, Mayo and Richards",9,Tienda Online Plus
+2024-04-08,2,lavadora 8kg,2,900.0,9,Pied Piper,27,Outlet Miami
+2024-03-14,25,Auriculares con Cancelación de Ruido,2,786.28,4,Umbrella Corp,14,sin descripcion
+2024-04-29,20,"Televisor LED 43"" 4K UHD",1,500.21,25,Scott-Johnson,1,ElectroShop Online
+2024-04-21,30,"Monitor 24"" Full HD",3,2191.29,18,Thompson-Payne,22,Electronics San Francisco
+2024-03-22,8,"computadora portátil 15""",3,1950.0,17,Williams Ltd,5,Tienda Premium
+2024-03-24,20,"Televisor LED 43"" 4K UHD",2,1000.42,19,Clark LLC,12,Outlet Sur
+2024-04-09,4,microondas 20l,2,200.0,5,Weyland-Yutani,10,ElectroShop California
+2024-03-24,25,Auriculares con Cancelación de Ruido,4,1572.56,15,razon social no informada,2,Tienda Central
+2024-03-07,2,lavadora 8kg,1,450.0,21,Clark-Rodriguez,26,Virtual Store Pro
+2024-03-08,5,aspiradora sin bolsa,2,500.0,6,Stark Industries,14,sin descripcion
+2024-04-19,30,"Monitor 24"" Full HD",4,2921.72,20,Armstrong-Rice,20,TechStore Columbus
+2024-03-11,30,"Monitor 24"" Full HD",1,730.43,8,Dunder Mifflin,22,Electronics San Francisco
+2024-04-29,15,Secadora de Ropa 8kg,4,1506.68,8,Dunder Mifflin,13,ElectroShop Norte
+2024-03-22,25,Auriculares con Cancelación de Ruido,4,1572.56,15,razon social no informada,2,Tienda Central
+2024-04-07,21,"Televisor OLED 55"" Smart TV",2,1238.3,2,Globex Corporation,17,Electronics Austin
+2024-04-17,7,home theater 5.1,1,200.0,8,Dunder Mifflin,16,Online Electronics
+2024-03-06,24,Auriculares Inalámbricos Bluetooth,3,1387.47,7,Wayne Enterprises,12,Outlet Sur
+2024-04-06,18,Smartphone Plegable 512GB,3,819.51,20,Armstrong-Rice,22,Electronics San Francisco
+2024-04-19,11,phone,1,150.0,14,Biohazard Inc,16,Online Electronics
+2024-03-18,11,phone,1,150.0,6,Stark Industries,1,ElectroShop Online
+2024-04-27,30,"Monitor 24"" Full HD",1,730.43,19,Clark LLC,10,ElectroShop California
+2024-03-19,7,home theater 5.1,1,200.0,10,Hooli,26,Virtual Store Pro
+2024-03-05,8,"computadora portátil 15""",1,650.0,28,Ortiz PLC,11,Tienda Norte
+2024-03-14,22,Consola de Videojuegos,2,911.02,6,Stark Industries,9,Tienda Online Plus
+2024-04-27,16,Amplificador de Audio,3,882.33,18,Thompson-Payne,3,Outlet Norte
+2024-04-20,3,refrigerador doble puerta,5,3750.0,8,Dunder Mifflin,21,Online Electronics
+2024-03-23,5,aspiradora sin bolsa,2,500.0,1,ACME Corp,3,Outlet Norte
+2024-03-06,2,lavadora 8kg,4,1800.0,18,Thompson-Payne,12,Outlet Sur
+2024-04-26,30,"Monitor 24"" Full HD",2,1460.86,5,Weyland-Yutani,20,TechStore Columbus
+2024-03-26,16,Amplificador de Audio,1,294.11,16,Baker-Johnson,11,Tienda Norte
+2024-04-09,18,Smartphone Plegable 512GB,1,273.17,30,Pearson-Grant,28,Outlet Philadelphia
+2024-03-07,1,"televisor led 55""",1,500.0,4,Umbrella Corp,20,TechStore Columbus
+2024-04-08,4,microondas 20l,4,400.0,28,Ortiz PLC,7,Tienda Express
+2024-03-08,1,"televisor led 55""",2,1000.0,5,Weyland-Yutani,1,ElectroShop Online
+2024-04-23,30,"Monitor 24"" Full HD",5,3652.15,14,Biohazard Inc,7,Tienda Express
+2024-03-04,29,Lavadora 15kg Carga Superior,2,2000.0,20,Armstrong-Rice,30,ElectroShop Online Plus
+2024-04-02,29,Lavadora 15kg Carga Superior,1,1000.0,14,Biohazard Inc,16,Online Electronics
+2024-04-23,18,Smartphone Plegable 512GB,3,819.51,25,Scott-Johnson,25,Online Electronics
+2024-04-14,9,"tablet 10""",1,400.0,29,Jones-Carter,26,Virtual Store Pro
+2024-03-09,24,Auriculares Inalámbricos Bluetooth,5,2312.45,8,Dunder Mifflin,28,Outlet Philadelphia
+2024-03-17,14,refrigerador simple puerta,3,1200.0,14,Biohazard Inc,21,Online Electronics
+2024-03-19,1,"televisor led 55""",1,500.0,28,Ortiz PLC,21,Online Electronics
+2024-04-04,20,"Televisor LED 43"" 4K UHD",5,2501.05,6,Stark Industries,16,Online Electronics
+2024-03-13,28,Micrófono USB para Streaming,2,607.32,5,Weyland-Yutani,21,Online Electronics
+2024-04-19,19,Soundbar 2.1 Canales,4,2145.76,14,Biohazard Inc,26,Virtual Store Pro
+2024-03-14,22,Consola de Videojuegos,2,911.02,14,Biohazard Inc,3,Outlet Norte
+2024-04-28,23,Cámara Digital 20MP,2,512.44,2,Globex Corporation,29,Outlet Seattle
+2024-04-03,14,refrigerador simple puerta,1,400.0,27,Phelps PLC,29,Outlet Seattle
+2024-04-11,23,Cámara Digital 20MP,1,256.22,4,Umbrella Corp,20,TechStore Columbus
+2024-04-28,27,"Monitor 24"" Full HD",4,1450.52,7,Wayne Enterprises,6,ElectroShop Oeste
+2024-03-26,21,"Televisor OLED 55"" Smart TV",2,1238.3,17,Williams Ltd,28,Outlet Philadelphia
+2024-03-30,15,Secadora de Ropa 8kg,1,376.67,7,Wayne Enterprises,4,ElectroShop Sur
+2024-04-27,29,Lavadora 15kg Carga Superior,3,3000.0,3,Initech,21,Online Electronics
+2024-04-09,25,Auriculares con Cancelación de Ruido,2,786.28,1,ACME Corp,3,Outlet Norte
+2024-04-09,11,phone,3,450.0,17,Williams Ltd,1,ElectroShop Online
+2024-04-11,3,refrigerador doble puerta,2,1500.0,16,Baker-Johnson,20,TechStore Columbus
+2024-04-18,30,"Monitor 24"" Full HD",4,2921.72,30,Pearson-Grant,6,ElectroShop Oeste
+2024-04-17,3,refrigerador doble puerta,3,2250.0,15,razon social no informada,2,Tienda Central
+2024-03-27,22,Consola de Videojuegos,4,1822.04,22,Crosby-Robinson,14,sin descripcion
+2024-03-12,21,"Televisor OLED 55"" Smart TV",2,1238.3,24,Horton Inc,18,Outlet Grand Rapids
+2024-03-05,1,"televisor led 55""",1,500.0,6,Stark Industries,9,Tienda Online Plus
+2024-04-04,10,smartwatch,1,150.0,14,Biohazard Inc,10,ElectroShop California
+2024-04-11,19,Soundbar 2.1 Canales,1,536.44,1,ACME Corp,13,ElectroShop Norte
+2024-04-23,20,"Televisor LED 43"" 4K UHD",3,1500.63,1,ACME Corp,11,Tienda Norte
+2024-04-17,13,lavadora 10kg,2,1300.0,21,Clark-Rodriguez,18,Outlet Grand Rapids
+2024-03-01,7,home theater 5.1,1,200.0,10,Hooli,6,ElectroShop Oeste
+2024-03-15,17,Smartphone Plegable 512GB,1,179.3,6,Stark Industries,3,Outlet Norte
+2024-04-07,28,Micrófono USB para Streaming,1,303.66,16,Baker-Johnson,1,ElectroShop Online
+2024-03-12,24,Auriculares Inalámbricos Bluetooth,1,462.49,6,Stark Industries,23,Virtual Store Pro
+2024-04-07,10,smartwatch,2,300.0,18,Thompson-Payne,6,ElectroShop Oeste
+2024-04-02,27,"Monitor 24"" Full HD",1,362.63,10,Hooli,15,ElectroShop Phoenix
+2024-03-01,27,"Monitor 24"" Full HD",3,1087.89,19,Clark LLC,15,ElectroShop Phoenix
+2024-04-24,3,refrigerador doble puerta,3,2250.0,28,Ortiz PLC,16,Online Electronics
+2024-04-26,23,Cámara Digital 20MP,5,1281.1,8,Dunder Mifflin,7,Tienda Express
+2024-04-30,20,"Televisor LED 43"" 4K UHD",1,500.21,21,Clark-Rodriguez,19,Tienda Boston Center
+2024-04-05,22,Consola de Videojuegos,4,1822.04,21,Clark-Rodriguez,26,Virtual Store Pro
+2024-04-10,5,aspiradora sin bolsa,1,250.0,9,Pied Piper,22,Electronics San Francisco
+2024-03-18,30,"Monitor 24"" Full HD",3,2191.29,4,Umbrella Corp,11,Tienda Norte
+2024-03-14,3,refrigerador doble puerta,4,3000.0,2,Globex Corporation,17,Electronics Austin
+2024-03-12,30,"Monitor 24"" Full HD",2,1460.86,3,Initech,7,Tienda Express
+2024-03-28,9,"tablet 10""",3,1200.0,10,Hooli,6,ElectroShop Oeste
+2024-04-09,20,"Televisor LED 43"" 4K UHD",1,500.21,5,Weyland-Yutani,8,ElectroShop Este
+2024-03-18,22,Consola de Videojuegos,1,455.51,10,Hooli,6,ElectroShop Oeste
+2024-03-04,16,Amplificador de Audio,1,294.11,2,Globex Corporation,3,Outlet Norte
+2024-04-06,17,Smartphone Plegable 512GB,1,179.3,14,Biohazard Inc,3,Outlet Norte
+2024-03-15,23,Cámara Digital 20MP,2,512.44,8,Dunder Mifflin,4,ElectroShop Sur
+2024-03-25,15,Secadora de Ropa 8kg,3,1130.01,22,Crosby-Robinson,17,Electronics Austin
+2024-04-30,11,phone,1,150.0,15,razon social no informada,30,ElectroShop Online Plus
+2024-03-01,15,Secadora de Ropa 8kg,2,753.34,16,Baker-Johnson,12,Outlet Sur
+2024-04-17,7,home theater 5.1,2,400.0,29,Jones-Carter,20,TechStore Columbus
+2024-03-15,26,Smartphone 128GB 5G,1,567.96,30,Pearson-Grant,15,ElectroShop Phoenix
+2024-03-04,4,microondas 20l,1,100.0,20,Armstrong-Rice,17,Electronics Austin
+2024-03-25,27,"Monitor 24"" Full HD",3,1087.89,21,Clark-Rodriguez,30,ElectroShop Online Plus
+2024-04-08,24,Auriculares Inalámbricos Bluetooth,3,1387.47,24,Horton Inc,27,Outlet Miami
+2024-04-22,11,phone,2,300.0,28,Ortiz PLC,15,ElectroShop Phoenix
+2024-04-19,11,phone,1,150.0,8,Dunder Mifflin,15,ElectroShop Phoenix
+2024-04-08,20,"Televisor LED 43"" 4K UHD",2,1000.42,3,Initech,25,Online Electronics
+2024-03-09,24,Auriculares Inalámbricos Bluetooth,2,924.98,26,Willis Ltd,12,Outlet Sur
+2024-04-23,16,Amplificador de Audio,1,294.11,21,Clark-Rodriguez,17,Electronics Austin
+2024-04-11,6,licuadora 600w,1,70.0,7,Wayne Enterprises,5,Tienda Premium
+2024-04-20,22,Consola de Videojuegos,2,911.02,4,Umbrella Corp,18,Outlet Grand Rapids
+2024-03-29,28,Micrófono USB para Streaming,1,303.66,1,ACME Corp,28,Outlet Philadelphia
+2024-04-06,8,"computadora portátil 15""",1,650.0,6,Stark Industries,9,Tienda Online Plus
+2024-04-11,4,microondas 20l,2,200.0,10,Hooli,23,Virtual Store Pro
+2024-03-15,23,Cámara Digital 20MP,1,256.22,2,Globex Corporation,29,Outlet Seattle
+2024-04-08,27,"Monitor 24"" Full HD",2,725.26,1,ACME Corp,2,Tienda Central
+2024-04-05,27,"Monitor 24"" Full HD",3,1087.89,25,Scott-Johnson,11,Tienda Norte
+2024-04-03,4,microondas 20l,1,100.0,28,Ortiz PLC,26,Virtual Store Pro
+2024-04-10,2,lavadora 8kg,3,1350.0,27,Phelps PLC,9,Tienda Online Plus
+2024-04-02,21,"Televisor OLED 55"" Smart TV",1,619.15,26,Willis Ltd,10,ElectroShop California
+2024-03-13,15,Secadora de Ropa 8kg,2,753.34,22,Crosby-Robinson,30,ElectroShop Online Plus
+2024-03-29,15,Secadora de Ropa 8kg,1,376.67,6,Stark Industries,29,Outlet Seattle
+2024-03-25,2,lavadora 8kg,2,900.0,23,"Perkins, Mayo and Richards",7,Tienda Express
+2024-04-29,5,aspiradora sin bolsa,2,500.0,15,razon social no informada,2,Tienda Central
+2024-03-03,2,lavadora 8kg,4,1800.0,28,Ortiz PLC,8,ElectroShop Este
+2024-04-08,5,aspiradora sin bolsa,2,500.0,5,Weyland-Yutani,3,Outlet Norte
+2024-04-24,5,aspiradora sin bolsa,4,1000.0,16,Baker-Johnson,24,ElectroShop Online Plus
+2024-04-12,29,Lavadora 15kg Carga Superior,3,3000.0,29,Jones-Carter,8,ElectroShop Este
+2024-04-11,1,"televisor led 55""",2,1000.0,15,razon social no informada,3,Outlet Norte
+2024-04-16,26,Smartphone 128GB 5G,2,1135.92,3,Initech,16,Online Electronics
+2024-03-31,21,"Televisor OLED 55"" Smart TV",1,619.15,16,Baker-Johnson,1,ElectroShop Online
+2024-04-26,15,Secadora de Ropa 8kg,1,376.67,30,Pearson-Grant,9,Tienda Online Plus
+2024-03-01,25,Auriculares con Cancelación de Ruido,2,786.28,9,Pied Piper,25,Online Electronics
+2024-04-14,9,"tablet 10""",1,400.0,1,ACME Corp,20,TechStore Columbus
+2024-04-23,3,refrigerador doble puerta,1,750.0,6,Stark Industries,16,Online Electronics
+2024-03-18,23,Cámara Digital 20MP,5,1281.1,26,Willis Ltd,2,Tienda Central
+2024-03-28,6,licuadora 600w,2,140.0,5,Weyland-Yutani,9,Tienda Online Plus
+2024-04-30,10,smartwatch,3,450.0,27,Phelps PLC,7,Tienda Express
+2024-03-17,25,Auriculares con Cancelación de Ruido,1,393.14,2,Globex Corporation,5,Tienda Premium
+2024-03-19,9,"tablet 10""",1,400.0,5,Weyland-Yutani,26,Virtual Store Pro
+2024-03-05,30,"Monitor 24"" Full HD",2,1460.86,7,Wayne Enterprises,30,ElectroShop Online Plus
+2024-03-18,25,Auriculares con Cancelación de Ruido,1,393.14,5,Weyland-Yutani,19,Tienda Boston Center
+2024-04-19,9,"tablet 10""",1,400.0,2,Globex Corporation,3,Outlet Norte
+2024-03-02,8,"computadora portátil 15""",4,2600.0,8,Dunder Mifflin,17,Electronics Austin
+2024-03-08,7,home theater 5.1,2,400.0,25,Scott-Johnson,4,ElectroShop Sur
+2024-04-22,30,"Monitor 24"" Full HD",2,1460.86,25,Scott-Johnson,2,Tienda Central
+2024-04-07,29,Lavadora 15kg Carga Superior,3,3000.0,21,Clark-Rodriguez,19,Tienda Boston Center
+2024-04-19,15,Secadora de Ropa 8kg,4,1506.68,29,Jones-Carter,27,Outlet Miami
+2024-03-16,5,aspiradora sin bolsa,1,250.0,2,Globex Corporation,26,Virtual Store Pro
+2024-04-19,3,refrigerador doble puerta,2,1500.0,23,"Perkins, Mayo and Richards",13,ElectroShop Norte
+2024-03-18,24,Auriculares Inalámbricos Bluetooth,4,1849.96,27,Phelps PLC,22,Electronics San Francisco
+2024-03-27,3,refrigerador doble puerta,4,3000.0,16,Baker-Johnson,16,Online Electronics
+2024-03-19,3,refrigerador doble puerta,1,750.0,27,Phelps PLC,1,ElectroShop Online
+2024-03-10,11,phone,2,300.0,3,Initech,6,ElectroShop Oeste
+2024-04-28,10,smartwatch,5,750.0,28,Ortiz PLC,29,Outlet Seattle
+2024-04-14,17,Smartphone Plegable 512GB,1,179.3,2,Globex Corporation,19,Tienda Boston Center
+2024-04-23,25,Auriculares con Cancelación de Ruido,4,1572.56,25,Scott-Johnson,3,Outlet Norte
+2024-04-03,21,"Televisor OLED 55"" Smart TV",1,619.15,6,Stark Industries,30,ElectroShop Online Plus
+2024-04-12,16,Amplificador de Audio,1,294.11,14,Biohazard Inc,11,Tienda Norte
+2024-03-08,14,refrigerador simple puerta,1,400.0,26,Willis Ltd,23,Virtual Store Pro
+2024-03-12,6,licuadora 600w,2,140.0,6,Stark Industries,20,TechStore Columbus
+2024-03-10,28,Micrófono USB para Streaming,3,910.98,4,Umbrella Corp,12,Outlet Sur
+2024-03-02,1,"televisor led 55""",1,500.0,1,ACME Corp,8,ElectroShop Este
+2024-04-08,19,Soundbar 2.1 Canales,1,536.44,30,Pearson-Grant,6,ElectroShop Oeste
+2024-04-26,6,licuadora 600w,2,140.0,28,Ortiz PLC,11,Tienda Norte
+2024-04-23,10,smartwatch,2,300.0,23,"Perkins, Mayo and Richards",27,Outlet Miami
+2024-03-18,16,Amplificador de Audio,2,588.22,4,Umbrella Corp,4,ElectroShop Sur
+2024-03-14,5,aspiradora sin bolsa,1,250.0,1,ACME Corp,28,Outlet Philadelphia
+2024-03-25,15,Secadora de Ropa 8kg,2,753.34,28,Ortiz PLC,12,Outlet Sur
+2024-04-01,5,aspiradora sin bolsa,1,250.0,5,Weyland-Yutani,17,Electronics Austin
+2024-04-16,6,licuadora 600w,1,70.0,22,Crosby-Robinson,30,ElectroShop Online Plus
+2024-03-27,6,licuadora 600w,1,70.0,24,Horton Inc,5,Tienda Premium
+2024-03-13,22,Consola de Videojuegos,1,455.51,19,Clark LLC,15,ElectroShop Phoenix
+2024-04-28,28,Micrófono USB para Streaming,3,910.98,28,Ortiz PLC,2,Tienda Central
+2024-04-21,6,licuadora 600w,1,70.0,27,Phelps PLC,5,Tienda Premium
+2024-03-17,11,phone,1,150.0,10,Hooli,11,Tienda Norte
+2024-03-08,3,refrigerador doble puerta,1,750.0,20,Armstrong-Rice,25,Online Electronics
+2024-04-08,26,Smartphone 128GB 5G,1,567.96,18,Thompson-Payne,17,Electronics Austin
+2024-04-30,21,"Televisor OLED 55"" Smart TV",2,1238.3,7,Wayne Enterprises,25,Online Electronics
+2024-04-21,16,Amplificador de Audio,1,294.11,17,Williams Ltd,13,ElectroShop Norte
+2024-04-22,2,lavadora 8kg,2,900.0,25,Scott-Johnson,5,Tienda Premium
+2024-03-25,11,phone,1,150.0,5,Weyland-Yutani,9,Tienda Online Plus
+2024-04-13,1,"televisor led 55""",2,1000.0,22,Crosby-Robinson,12,Outlet Sur
+2024-04-29,2,lavadora 8kg,1,450.0,25,Scott-Johnson,23,Virtual Store Pro
+2024-03-29,17,Smartphone Plegable 512GB,1,179.3,27,Phelps PLC,22,Electronics San Francisco
+2024-04-03,10,smartwatch,2,300.0,21,Clark-Rodriguez,29,Outlet Seattle
+2024-03-29,3,refrigerador doble puerta,2,1500.0,9,Pied Piper,22,Electronics San Francisco
+2024-03-05,25,Auriculares con Cancelación de Ruido,1,393.14,2,Globex Corporation,14,sin descripcion
+2024-04-15,28,Micrófono USB para Streaming,1,303.66,26,Willis Ltd,9,Tienda Online Plus
+2024-04-15,5,aspiradora sin bolsa,3,750.0,21,Clark-Rodriguez,28,Outlet Philadelphia
+2024-04-23,23,Cámara Digital 20MP,1,256.22,3,Initech,21,Online Electronics
+2024-03-19,18,Smartphone Plegable 512GB,2,546.34,4,Umbrella Corp,1,ElectroShop Online
+2024-04-12,6,licuadora 600w,5,350.0,20,Armstrong-Rice,24,ElectroShop Online Plus
+2024-04-09,21,"Televisor OLED 55"" Smart TV",4,2476.6,16,Baker-Johnson,21,Online Electronics
+2024-04-28,19,Soundbar 2.1 Canales,4,2145.76,3,Initech,11,Tienda Norte
+2024-04-25,10,smartwatch,1,150.0,22,Crosby-Robinson,17,Electronics Austin
+2024-03-26,5,aspiradora sin bolsa,1,250.0,26,Willis Ltd,10,ElectroShop California
+2024-03-25,2,lavadora 8kg,1,450.0,19,Clark LLC,17,Electronics Austin
+2024-04-14,24,Auriculares Inalámbricos Bluetooth,1,462.49,15,razon social no informada,9,Tienda Online Plus
+2024-03-02,13,lavadora 10kg,2,1300.0,1,ACME Corp,24,ElectroShop Online Plus
+2024-03-05,17,Smartphone Plegable 512GB,3,537.9,3,Initech,21,Online Electronics
+2024-04-04,5,aspiradora sin bolsa,2,500.0,1,ACME Corp,13,ElectroShop Norte
+2024-04-10,7,home theater 5.1,1,200.0,23,"Perkins, Mayo and Richards",13,ElectroShop Norte
+2024-03-09,3,refrigerador doble puerta,1,750.0,29,Jones-Carter,17,Electronics Austin
+2024-03-27,26,Smartphone 128GB 5G,2,1135.92,6,Stark Industries,9,Tienda Online Plus
+2024-04-03,29,Lavadora 15kg Carga Superior,1,1000.0,17,Williams Ltd,18,Outlet Grand Rapids
+2024-03-31,20,"Televisor LED 43"" 4K UHD",2,1000.42,28,Ortiz PLC,29,Outlet Seattle
+2024-03-28,30,"Monitor 24"" Full HD",1,730.43,26,Willis Ltd,27,Outlet Miami
+2024-04-27,21,"Televisor OLED 55"" Smart TV",5,3095.75,14,Biohazard Inc,30,ElectroShop Online Plus
+2024-03-15,10,smartwatch,4,600.0,6,Stark Industries,16,Online Electronics
+2024-04-24,30,"Monitor 24"" Full HD",4,2921.72,4,Umbrella Corp,21,Online Electronics
+2024-04-04,21,"Televisor OLED 55"" Smart TV",2,1238.3,7,Wayne Enterprises,24,ElectroShop Online Plus
+2024-04-25,3,refrigerador doble puerta,1,750.0,23,"Perkins, Mayo and Richards",30,ElectroShop Online Plus
+2024-03-14,6,licuadora 600w,5,350.0,20,Armstrong-Rice,1,ElectroShop Online
+2024-04-03,29,Lavadora 15kg Carga Superior,4,4000.0,7,Wayne Enterprises,27,Outlet Miami
+2024-03-15,4,microondas 20l,2,200.0,30,Pearson-Grant,8,ElectroShop Este
+2024-03-16,3,refrigerador doble puerta,1,750.0,30,Pearson-Grant,22,Electronics San Francisco
+2024-03-31,11,phone,2,300.0,2,Globex Corporation,16,Online Electronics
+2024-03-03,16,Amplificador de Audio,4,1176.44,22,Crosby-Robinson,7,Tienda Express
+2024-03-11,18,Smartphone Plegable 512GB,2,546.34,24,Horton Inc,2,Tienda Central
+2024-03-09,15,Secadora de Ropa 8kg,1,376.67,10,Hooli,21,Online Electronics
+2024-03-02,22,Consola de Videojuegos,4,1822.04,1,ACME Corp,12,Outlet Sur
+2024-03-05,19,Soundbar 2.1 Canales,1,536.44,10,Hooli,27,Outlet Miami
+2024-03-26,1,"televisor led 55""",2,1000.0,29,Jones-Carter,18,Outlet Grand Rapids
+2024-04-29,18,Smartphone Plegable 512GB,1,273.17,25,Scott-Johnson,2,Tienda Central
+2024-03-31,19,Soundbar 2.1 Canales,2,1072.88,14,Biohazard Inc,14,sin descripcion
+2024-04-02,14,refrigerador simple puerta,5,2000.0,18,Thompson-Payne,9,Tienda Online Plus
+2024-04-29,9,"tablet 10""",1,400.0,3,Initech,16,Online Electronics
+2024-03-06,16,Amplificador de Audio,2,588.22,28,Ortiz PLC,12,Outlet Sur
+2024-04-29,7,home theater 5.1,1,200.0,23,"Perkins, Mayo and Richards",25,Online Electronics
+2024-04-27,9,"tablet 10""",4,1600.0,5,Weyland-Yutani,12,Outlet Sur
+2024-04-20,6,licuadora 600w,3,210.0,24,Horton Inc,24,ElectroShop Online Plus
+2024-03-11,23,Cámara Digital 20MP,4,1024.88,28,Ortiz PLC,23,Virtual Store Pro
+2024-03-01,24,Auriculares Inalámbricos Bluetooth,2,924.98,23,"Perkins, Mayo and Richards",5,Tienda Premium
+2024-03-20,20,"Televisor LED 43"" 4K UHD",1,500.21,19,Clark LLC,26,Virtual Store Pro
+2024-03-21,19,Soundbar 2.1 Canales,2,1072.88,5,Weyland-Yutani,28,Outlet Philadelphia
+2024-04-03,27,"Monitor 24"" Full HD",2,725.26,24,Horton Inc,24,ElectroShop Online Plus
+2024-04-02,27,"Monitor 24"" Full HD",2,725.26,14,Biohazard Inc,7,Tienda Express
+2024-03-09,4,microondas 20l,2,200.0,27,Phelps PLC,27,Outlet Miami
+2024-03-25,21,"Televisor OLED 55"" Smart TV",3,1857.45,27,Phelps PLC,6,ElectroShop Oeste
+2024-03-22,8,"computadora portátil 15""",3,1950.0,29,Jones-Carter,16,Online Electronics
+2024-04-16,21,"Televisor OLED 55"" Smart TV",1,619.15,22,Crosby-Robinson,15,ElectroShop Phoenix
+2024-04-20,5,aspiradora sin bolsa,2,500.0,23,"Perkins, Mayo and Richards",11,Tienda Norte
+2024-04-13,4,microondas 20l,1,100.0,8,Dunder Mifflin,9,Tienda Online Plus
+2024-03-22,20,"Televisor LED 43"" 4K UHD",2,1000.42,20,Armstrong-Rice,12,Outlet Sur
+2024-04-09,13,lavadora 10kg,1,650.0,27,Phelps PLC,30,ElectroShop Online Plus
+2024-03-03,11,phone,3,450.0,22,Crosby-Robinson,4,ElectroShop Sur
+2024-04-04,16,Amplificador de Audio,3,882.33,18,Thompson-Payne,12,Outlet Sur
+2024-04-15,7,home theater 5.1,3,600.0,2,Globex Corporation,18,Outlet Grand Rapids
+2024-04-27,2,lavadora 8kg,3,1350.0,23,"Perkins, Mayo and Richards",20,TechStore Columbus
+2024-03-17,25,Auriculares con Cancelación de Ruido,3,1179.42,25,Scott-Johnson,19,Tienda Boston Center
+2024-04-15,3,refrigerador doble puerta,1,750.0,5,Weyland-Yutani,21,Online Electronics
+2024-04-17,22,Consola de Videojuegos,2,911.02,6,Stark Industries,27,Outlet Miami
+2024-03-12,14,refrigerador simple puerta,1,400.0,26,Willis Ltd,8,ElectroShop Este
+2024-03-04,1,"televisor led 55""",1,500.0,14,Biohazard Inc,23,Virtual Store Pro
+2024-04-19,5,aspiradora sin bolsa,1,250.0,27,Phelps PLC,26,Virtual Store Pro
+2024-03-05,7,home theater 5.1,2,400.0,14,Biohazard Inc,12,Outlet Sur
+2024-03-22,5,aspiradora sin bolsa,1,250.0,26,Willis Ltd,3,Outlet Norte
+2024-04-19,17,Smartphone Plegable 512GB,1,179.3,23,"Perkins, Mayo and Richards",25,Online Electronics
+2024-03-13,28,Micrófono USB para Streaming,1,303.66,29,Jones-Carter,22,Electronics San Francisco
+2024-03-17,26,Smartphone 128GB 5G,1,567.96,14,Biohazard Inc,23,Virtual Store Pro
+2024-04-20,29,Lavadora 15kg Carga Superior,1,1000.0,21,Clark-Rodriguez,29,Outlet Seattle
+2024-04-20,19,Soundbar 2.1 Canales,1,536.44,22,Crosby-Robinson,2,Tienda Central
+2024-04-04,21,"Televisor OLED 55"" Smart TV",1,619.15,4,Umbrella Corp,17,Electronics Austin
+2024-04-22,25,Auriculares con Cancelación de Ruido,1,393.14,8,Dunder Mifflin,27,Outlet Miami
+2024-03-24,20,"Televisor LED 43"" 4K UHD",1,500.21,28,Ortiz PLC,11,Tienda Norte
+2024-03-28,8,"computadora portátil 15""",4,2600.0,18,Thompson-Payne,1,ElectroShop Online
+2024-04-23,7,home theater 5.1,4,800.0,19,Clark LLC,17,Electronics Austin
+2024-03-20,18,Smartphone Plegable 512GB,1,273.17,2,Globex Corporation,23,Virtual Store Pro
+2024-03-12,9,"tablet 10""",1,400.0,23,"Perkins, Mayo and Richards",7,Tienda Express
+2024-03-04,7,home theater 5.1,2,400.0,25,Scott-Johnson,7,Tienda Express
+2024-03-20,16,Amplificador de Audio,3,882.33,22,Crosby-Robinson,9,Tienda Online Plus
+2024-03-24,27,"Monitor 24"" Full HD",1,362.63,8,Dunder Mifflin,26,Virtual Store Pro
+2024-03-18,7,home theater 5.1,4,800.0,29,Jones-Carter,17,Electronics Austin
+2024-03-26,10,smartwatch,1,150.0,22,Crosby-Robinson,18,Outlet Grand Rapids
+2024-04-18,13,lavadora 10kg,2,1300.0,28,Ortiz PLC,27,Outlet Miami
+2024-04-01,11,phone,1,150.0,19,Clark LLC,14,sin descripcion
+2024-03-24,20,"Televisor LED 43"" 4K UHD",3,1500.63,29,Jones-Carter,2,Tienda Central
+2024-04-04,9,"tablet 10""",3,1200.0,30,Pearson-Grant,28,Outlet Philadelphia
+2024-03-13,22,Consola de Videojuegos,2,911.02,15,razon social no informada,13,ElectroShop Norte
+2024-03-07,16,Amplificador de Audio,1,294.11,17,Williams Ltd,28,Outlet Philadelphia
+2024-04-12,20,"Televisor LED 43"" 4K UHD",1,500.21,1,ACME Corp,23,Virtual Store Pro
+2024-04-07,18,Smartphone Plegable 512GB,2,546.34,15,razon social no informada,30,ElectroShop Online Plus
+2024-03-11,15,Secadora de Ropa 8kg,1,376.67,16,Baker-Johnson,26,Virtual Store Pro
+2024-03-15,27,"Monitor 24"" Full HD",1,362.63,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-04-28,29,Lavadora 15kg Carga Superior,3,3000.0,20,Armstrong-Rice,11,Tienda Norte
+2024-03-15,10,smartwatch,1,150.0,10,Hooli,8,ElectroShop Este
+2024-04-17,22,Consola de Videojuegos,4,1822.04,19,Clark LLC,12,Outlet Sur
+2024-04-18,29,Lavadora 15kg Carga Superior,4,4000.0,8,Dunder Mifflin,9,Tienda Online Plus
+2024-03-16,6,licuadora 600w,3,210.0,21,Clark-Rodriguez,10,ElectroShop California
+2024-03-10,7,home theater 5.1,4,800.0,2,Globex Corporation,7,Tienda Express
+2024-04-02,19,Soundbar 2.1 Canales,2,1072.88,27,Phelps PLC,14,sin descripcion
+2024-03-24,21,"Televisor OLED 55"" Smart TV",1,619.15,18,Thompson-Payne,28,Outlet Philadelphia
+2024-03-18,7,home theater 5.1,1,200.0,18,Thompson-Payne,18,Outlet Grand Rapids
+2024-04-21,22,Consola de Videojuegos,2,911.02,10,Hooli,7,Tienda Express
+2024-03-02,6,licuadora 600w,2,140.0,2,Globex Corporation,18,Outlet Grand Rapids
+2024-04-28,23,Cámara Digital 20MP,1,256.22,15,razon social no informada,4,ElectroShop Sur
+2024-03-26,1,"televisor led 55""",1,500.0,17,Williams Ltd,25,Online Electronics
+2024-04-13,17,Smartphone Plegable 512GB,2,358.6,29,Jones-Carter,18,Outlet Grand Rapids
+2024-03-10,15,Secadora de Ropa 8kg,1,376.67,26,Willis Ltd,23,Virtual Store Pro
+2024-03-15,30,"Monitor 24"" Full HD",1,730.43,20,Armstrong-Rice,10,ElectroShop California
+2024-04-02,9,"tablet 10""",2,800.0,28,Ortiz PLC,21,Online Electronics
+2024-04-05,9,"tablet 10""",2,800.0,28,Ortiz PLC,29,Outlet Seattle
+2024-04-20,23,Cámara Digital 20MP,4,1024.88,26,Willis Ltd,27,Outlet Miami
+2024-03-04,24,Auriculares Inalámbricos Bluetooth,2,924.98,10,Hooli,18,Outlet Grand Rapids
+2024-03-29,6,licuadora 600w,2,140.0,7,Wayne Enterprises,11,Tienda Norte
+2024-04-02,27,"Monitor 24"" Full HD",1,362.63,9,Pied Piper,6,ElectroShop Oeste
+2024-03-31,16,Amplificador de Audio,2,588.22,16,Baker-Johnson,7,Tienda Express
+2024-03-03,3,refrigerador doble puerta,2,1500.0,22,Crosby-Robinson,16,Online Electronics
+2024-04-06,16,Amplificador de Audio,1,294.11,15,razon social no informada,17,Electronics Austin
+2024-04-20,30,"Monitor 24"" Full HD",2,1460.86,18,Thompson-Payne,26,Virtual Store Pro
+2024-04-05,4,microondas 20l,1,100.0,25,Scott-Johnson,7,Tienda Express
+2024-03-09,10,smartwatch,1,150.0,9,Pied Piper,12,Outlet Sur
+2024-03-21,20,"Televisor LED 43"" 4K UHD",2,1000.42,29,Jones-Carter,5,Tienda Premium
+2024-03-15,29,Lavadora 15kg Carga Superior,1,1000.0,6,Stark Industries,8,ElectroShop Este
+2024-04-28,26,Smartphone 128GB 5G,3,1703.88,16,Baker-Johnson,8,ElectroShop Este
+2024-03-18,7,home theater 5.1,2,400.0,30,Pearson-Grant,23,Virtual Store Pro
+2024-04-30,11,phone,1,150.0,29,Jones-Carter,27,Outlet Miami
+2024-03-20,27,"Monitor 24"" Full HD",1,362.63,6,Stark Industries,19,Tienda Boston Center
+2024-04-19,30,"Monitor 24"" Full HD",1,730.43,3,Initech,5,Tienda Premium
+2024-04-05,20,"Televisor LED 43"" 4K UHD",3,1500.63,26,Willis Ltd,11,Tienda Norte
+2024-03-29,14,refrigerador simple puerta,1,400.0,16,Baker-Johnson,27,Outlet Miami
+2024-03-15,9,"tablet 10""",1,400.0,10,Hooli,16,Online Electronics
+2024-04-20,23,Cámara Digital 20MP,3,768.66,25,Scott-Johnson,15,ElectroShop Phoenix
+2024-03-28,29,Lavadora 15kg Carga Superior,3,3000.0,3,Initech,14,sin descripcion
+2024-03-12,11,phone,1,150.0,25,Scott-Johnson,18,Outlet Grand Rapids
+2024-03-03,18,Smartphone Plegable 512GB,1,273.17,14,Biohazard Inc,19,Tienda Boston Center
+2024-04-04,7,home theater 5.1,1,200.0,8,Dunder Mifflin,1,ElectroShop Online
+2024-04-07,17,Smartphone Plegable 512GB,2,358.6,20,Armstrong-Rice,28,Outlet Philadelphia
+2024-03-03,3,refrigerador doble puerta,1,750.0,21,Clark-Rodriguez,12,Outlet Sur
+2024-04-06,29,Lavadora 15kg Carga Superior,4,4000.0,30,Pearson-Grant,10,ElectroShop California
+2024-04-22,24,Auriculares Inalámbricos Bluetooth,1,462.49,6,Stark Industries,10,ElectroShop California
+2024-04-23,28,Micrófono USB para Streaming,2,607.32,17,Williams Ltd,23,Virtual Store Pro
+2024-03-18,9,"tablet 10""",1,400.0,18,Thompson-Payne,5,Tienda Premium
+2024-04-12,23,Cámara Digital 20MP,4,1024.88,16,Baker-Johnson,2,Tienda Central
+2024-03-01,9,"tablet 10""",2,800.0,5,Weyland-Yutani,9,Tienda Online Plus
+2024-04-22,23,Cámara Digital 20MP,2,512.44,2,Globex Corporation,7,Tienda Express
+2024-03-10,9,"tablet 10""",1,400.0,26,Willis Ltd,1,ElectroShop Online
+2024-03-19,23,Cámara Digital 20MP,3,768.66,2,Globex Corporation,7,Tienda Express
+2024-04-29,30,"Monitor 24"" Full HD",1,730.43,2,Globex Corporation,18,Outlet Grand Rapids
+2024-04-26,9,"tablet 10""",5,2000.0,26,Willis Ltd,28,Outlet Philadelphia
+2024-03-13,27,"Monitor 24"" Full HD",1,362.63,17,Williams Ltd,3,Outlet Norte
+2024-03-25,8,"computadora portátil 15""",3,1950.0,30,Pearson-Grant,7,Tienda Express
+2024-04-21,28,Micrófono USB para Streaming,2,607.32,18,Thompson-Payne,2,Tienda Central
+2024-03-09,1,"televisor led 55""",1,500.0,16,Baker-Johnson,21,Online Electronics
+2024-04-27,22,Consola de Videojuegos,1,455.51,24,Horton Inc,13,ElectroShop Norte
+2024-04-13,10,smartwatch,1,150.0,4,Umbrella Corp,16,Online Electronics
+2024-03-01,21,"Televisor OLED 55"" Smart TV",2,1238.3,4,Umbrella Corp,27,Outlet Miami
+2024-04-15,8,"computadora portátil 15""",1,650.0,29,Jones-Carter,4,ElectroShop Sur
+2024-04-14,10,smartwatch,3,450.0,17,Williams Ltd,1,ElectroShop Online
+2024-03-31,18,Smartphone Plegable 512GB,4,1092.68,7,Wayne Enterprises,15,ElectroShop Phoenix
+2024-03-19,27,"Monitor 24"" Full HD",1,362.63,30,Pearson-Grant,9,Tienda Online Plus
+2024-04-23,2,lavadora 8kg,1,450.0,29,Jones-Carter,28,Outlet Philadelphia
+2024-04-06,4,microondas 20l,3,300.0,9,Pied Piper,7,Tienda Express
+2024-04-28,17,Smartphone Plegable 512GB,3,537.9,25,Scott-Johnson,9,Tienda Online Plus
+2024-03-16,5,aspiradora sin bolsa,1,250.0,9,Pied Piper,28,Outlet Philadelphia
+2024-04-27,27,"Monitor 24"" Full HD",1,362.63,27,Phelps PLC,26,Virtual Store Pro
+2024-04-15,1,"televisor led 55""",2,1000.0,8,Dunder Mifflin,15,ElectroShop Phoenix
+2024-04-06,18,Smartphone Plegable 512GB,3,819.51,30,Pearson-Grant,25,Online Electronics
+2024-04-03,5,aspiradora sin bolsa,1,250.0,26,Willis Ltd,3,Outlet Norte
+2024-03-23,21,"Televisor OLED 55"" Smart TV",5,3095.75,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-04-09,30,"Monitor 24"" Full HD",5,3652.15,9,Pied Piper,21,Online Electronics
+2024-04-24,21,"Televisor OLED 55"" Smart TV",4,2476.6,27,Phelps PLC,25,Online Electronics
+2024-03-11,24,Auriculares Inalámbricos Bluetooth,2,924.98,19,Clark LLC,21,Online Electronics
+2024-03-02,7,home theater 5.1,2,400.0,24,Horton Inc,27,Outlet Miami
+2024-04-11,23,Cámara Digital 20MP,1,256.22,19,Clark LLC,1,ElectroShop Online
+2024-03-02,24,Auriculares Inalámbricos Bluetooth,4,1849.96,9,Pied Piper,14,sin descripcion
+2024-04-06,23,Cámara Digital 20MP,3,768.66,15,razon social no informada,5,Tienda Premium
+2024-04-22,9,"tablet 10""",4,1600.0,15,razon social no informada,24,ElectroShop Online Plus
+2024-04-17,5,aspiradora sin bolsa,1,250.0,26,Willis Ltd,3,Outlet Norte
+2024-03-17,4,microondas 20l,3,300.0,25,Scott-Johnson,24,ElectroShop Online Plus
+2024-04-17,2,lavadora 8kg,4,1800.0,2,Globex Corporation,22,Electronics San Francisco
+2024-04-04,1,"televisor led 55""",1,500.0,4,Umbrella Corp,14,sin descripcion
+2024-04-30,9,"tablet 10""",1,400.0,25,Scott-Johnson,10,ElectroShop California
+2024-03-24,16,Amplificador de Audio,5,1470.55,26,Willis Ltd,10,ElectroShop California
+2024-03-21,23,Cámara Digital 20MP,1,256.22,6,Stark Industries,25,Online Electronics
+2024-04-21,5,aspiradora sin bolsa,2,500.0,23,"Perkins, Mayo and Richards",9,Tienda Online Plus
+2024-03-25,14,refrigerador simple puerta,5,2000.0,16,Baker-Johnson,21,Online Electronics
+2024-03-05,13,lavadora 10kg,1,650.0,21,Clark-Rodriguez,23,Virtual Store Pro
+2024-03-04,23,Cámara Digital 20MP,1,256.22,28,Ortiz PLC,30,ElectroShop Online Plus
+2024-03-22,13,lavadora 10kg,5,3250.0,21,Clark-Rodriguez,1,ElectroShop Online
+2024-03-26,7,home theater 5.1,2,400.0,30,Pearson-Grant,29,Outlet Seattle
+2024-03-28,5,aspiradora sin bolsa,1,250.0,3,Initech,26,Virtual Store Pro
+2024-04-13,17,Smartphone Plegable 512GB,1,179.3,24,Horton Inc,24,ElectroShop Online Plus
+2024-04-22,14,refrigerador simple puerta,2,800.0,22,Crosby-Robinson,28,Outlet Philadelphia
+2024-03-20,24,Auriculares Inalámbricos Bluetooth,3,1387.47,22,Crosby-Robinson,7,Tienda Express
+2024-04-05,8,"computadora portátil 15""",1,650.0,19,Clark LLC,2,Tienda Central
+2024-03-02,28,Micrófono USB para Streaming,1,303.66,25,Scott-Johnson,17,Electronics Austin
+2024-04-25,13,lavadora 10kg,2,1300.0,23,"Perkins, Mayo and Richards",16,Online Electronics
+2024-04-03,3,refrigerador doble puerta,1,750.0,8,Dunder Mifflin,23,Virtual Store Pro
+2024-04-20,17,Smartphone Plegable 512GB,1,179.3,5,Weyland-Yutani,8,ElectroShop Este
+2024-04-05,17,Smartphone Plegable 512GB,2,358.6,2,Globex Corporation,6,ElectroShop Oeste
+2024-04-11,23,Cámara Digital 20MP,4,1024.88,25,Scott-Johnson,17,Electronics Austin
+2024-04-25,2,lavadora 8kg,1,450.0,21,Clark-Rodriguez,10,ElectroShop California
+2024-04-20,23,Cámara Digital 20MP,2,512.44,2,Globex Corporation,5,Tienda Premium
+2024-03-26,26,Smartphone 128GB 5G,4,2271.84,9,Pied Piper,19,Tienda Boston Center
+2024-03-11,3,refrigerador doble puerta,2,1500.0,22,Crosby-Robinson,13,ElectroShop Norte
+2024-03-20,15,Secadora de Ropa 8kg,4,1506.68,26,Willis Ltd,4,ElectroShop Sur
+2024-03-29,9,"tablet 10""",1,400.0,28,Ortiz PLC,4,ElectroShop Sur
+2024-04-13,23,Cámara Digital 20MP,1,256.22,7,Wayne Enterprises,28,Outlet Philadelphia
+2024-03-18,16,Amplificador de Audio,2,588.22,8,Dunder Mifflin,30,ElectroShop Online Plus
+2024-03-20,29,Lavadora 15kg Carga Superior,1,1000.0,8,Dunder Mifflin,5,Tienda Premium
+2024-04-25,19,Soundbar 2.1 Canales,4,2145.76,1,ACME Corp,25,Online Electronics
+2024-04-23,9,"tablet 10""",2,800.0,22,Crosby-Robinson,25,Online Electronics
+2024-03-29,8,"computadora portátil 15""",1,650.0,6,Stark Industries,1,ElectroShop Online
+2024-03-18,24,Auriculares Inalámbricos Bluetooth,1,462.49,24,Horton Inc,12,Outlet Sur
+2024-04-20,15,Secadora de Ropa 8kg,1,376.67,7,Wayne Enterprises,13,ElectroShop Norte
+2024-04-05,11,phone,1,150.0,8,Dunder Mifflin,30,ElectroShop Online Plus
+2024-04-23,24,Auriculares Inalámbricos Bluetooth,3,1387.47,23,"Perkins, Mayo and Richards",21,Online Electronics
+2024-04-06,20,"Televisor LED 43"" 4K UHD",1,500.21,4,Umbrella Corp,24,ElectroShop Online Plus
+2024-03-28,8,"computadora portátil 15""",1,650.0,25,Scott-Johnson,27,Outlet Miami
+2024-04-30,13,lavadora 10kg,3,1950.0,29,Jones-Carter,24,ElectroShop Online Plus
+2024-04-10,26,Smartphone 128GB 5G,5,2839.8,9,Pied Piper,27,Outlet Miami
+2024-03-07,5,aspiradora sin bolsa,1,250.0,14,Biohazard Inc,6,ElectroShop Oeste
+2024-03-25,18,Smartphone Plegable 512GB,1,273.17,28,Ortiz PLC,19,Tienda Boston Center
+2024-03-21,27,"Monitor 24"" Full HD",2,725.26,4,Umbrella Corp,22,Electronics San Francisco
+2024-04-21,28,Micrófono USB para Streaming,4,1214.64,24,Horton Inc,5,Tienda Premium
+2024-03-14,30,"Monitor 24"" Full HD",2,1460.86,17,Williams Ltd,30,ElectroShop Online Plus
+2024-04-18,11,phone,4,600.0,23,"Perkins, Mayo and Richards",23,Virtual Store Pro
+2024-03-14,18,Smartphone Plegable 512GB,3,819.51,27,Phelps PLC,15,ElectroShop Phoenix
+2024-03-28,19,Soundbar 2.1 Canales,1,536.44,26,Willis Ltd,13,ElectroShop Norte
+2024-04-11,3,refrigerador doble puerta,1,750.0,2,Globex Corporation,20,TechStore Columbus
+2024-04-25,2,lavadora 8kg,2,900.0,3,Initech,15,ElectroShop Phoenix
+2024-03-11,5,aspiradora sin bolsa,2,500.0,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-03-22,24,Auriculares Inalámbricos Bluetooth,1,462.49,24,Horton Inc,20,TechStore Columbus
+2024-04-03,16,Amplificador de Audio,1,294.11,2,Globex Corporation,13,ElectroShop Norte
+2024-03-02,4,microondas 20l,1,100.0,20,Armstrong-Rice,11,Tienda Norte
+2024-03-08,21,"Televisor OLED 55"" Smart TV",1,619.15,6,Stark Industries,12,Outlet Sur
+2024-03-25,14,refrigerador simple puerta,2,800.0,24,Horton Inc,30,ElectroShop Online Plus
+2024-04-04,22,Consola de Videojuegos,1,455.51,14,Biohazard Inc,30,ElectroShop Online Plus
+2024-03-26,22,Consola de Videojuegos,2,911.02,7,Wayne Enterprises,15,ElectroShop Phoenix
+2024-04-17,18,Smartphone Plegable 512GB,1,273.17,18,Thompson-Payne,30,ElectroShop Online Plus
+2024-04-04,2,lavadora 8kg,3,1350.0,6,Stark Industries,9,Tienda Online Plus
+2024-03-11,10,smartwatch,4,600.0,18,Thompson-Payne,2,Tienda Central
+2024-04-27,21,"Televisor OLED 55"" Smart TV",3,1857.45,3,Initech,11,Tienda Norte
+2024-03-28,7,home theater 5.1,2,400.0,26,Willis Ltd,13,ElectroShop Norte
+2024-03-09,29,Lavadora 15kg Carga Superior,3,3000.0,21,Clark-Rodriguez,26,Virtual Store Pro
+2024-04-27,5,aspiradora sin bolsa,1,250.0,9,Pied Piper,13,ElectroShop Norte
+2024-03-16,3,refrigerador doble puerta,1,750.0,28,Ortiz PLC,23,Virtual Store Pro
+2024-03-29,28,Micrófono USB para Streaming,3,910.98,18,Thompson-Payne,26,Virtual Store Pro
+2024-04-09,25,Auriculares con Cancelación de Ruido,4,1572.56,2,Globex Corporation,7,Tienda Express
+2024-04-01,15,Secadora de Ropa 8kg,4,1506.68,22,Crosby-Robinson,23,Virtual Store Pro
+2024-03-05,3,refrigerador doble puerta,1,750.0,25,Scott-Johnson,27,Outlet Miami
+2024-03-24,30,"Monitor 24"" Full HD",1,730.43,8,Dunder Mifflin,7,Tienda Express
+2024-04-30,5,aspiradora sin bolsa,3,750.0,15,razon social no informada,25,Online Electronics
+2024-04-03,10,smartwatch,3,450.0,17,Williams Ltd,27,Outlet Miami
+2024-03-06,18,Smartphone Plegable 512GB,4,1092.68,20,Armstrong-Rice,25,Online Electronics
+2024-03-09,18,Smartphone Plegable 512GB,2,546.34,22,Crosby-Robinson,21,Online Electronics
+2024-04-07,26,Smartphone 128GB 5G,3,1703.88,17,Williams Ltd,18,Outlet Grand Rapids
+2024-03-13,18,Smartphone Plegable 512GB,2,546.34,26,Willis Ltd,5,Tienda Premium
+2024-03-10,26,Smartphone 128GB 5G,4,2271.84,4,Umbrella Corp,8,ElectroShop Este
+2024-03-23,29,Lavadora 15kg Carga Superior,1,1000.0,21,Clark-Rodriguez,1,ElectroShop Online
+2024-04-11,30,"Monitor 24"" Full HD",2,1460.86,5,Weyland-Yutani,8,ElectroShop Este
+2024-03-13,21,"Televisor OLED 55"" Smart TV",1,619.15,25,Scott-Johnson,27,Outlet Miami
+2024-03-11,6,licuadora 600w,2,140.0,18,Thompson-Payne,13,ElectroShop Norte
+2024-03-06,17,Smartphone Plegable 512GB,4,717.2,20,Armstrong-Rice,27,Outlet Miami
+2024-04-24,7,home theater 5.1,2,400.0,14,Biohazard Inc,17,Electronics Austin
+2024-04-27,10,smartwatch,5,750.0,28,Ortiz PLC,13,ElectroShop Norte
+2024-04-03,30,"Monitor 24"" Full HD",4,2921.72,24,Horton Inc,12,Outlet Sur
+2024-04-05,14,refrigerador simple puerta,3,1200.0,6,Stark Industries,3,Outlet Norte
+2024-03-16,11,phone,5,750.0,20,Armstrong-Rice,5,Tienda Premium
+2024-04-01,9,"tablet 10""",1,400.0,1,ACME Corp,9,Tienda Online Plus
+2024-04-19,17,Smartphone Plegable 512GB,5,896.5,18,Thompson-Payne,23,Virtual Store Pro
+2024-03-29,16,Amplificador de Audio,3,882.33,10,Hooli,14,sin descripcion
+2024-04-09,29,Lavadora 15kg Carga Superior,3,3000.0,29,Jones-Carter,3,Outlet Norte
+2024-04-12,7,home theater 5.1,1,200.0,25,Scott-Johnson,9,Tienda Online Plus
+2024-04-01,9,"tablet 10""",2,800.0,18,Thompson-Payne,14,sin descripcion
+2024-03-29,23,Cámara Digital 20MP,2,512.44,4,Umbrella Corp,3,Outlet Norte
+2024-03-01,24,Auriculares Inalámbricos Bluetooth,3,1387.47,18,Thompson-Payne,3,Outlet Norte
+2024-03-11,19,Soundbar 2.1 Canales,3,1609.32,9,Pied Piper,3,Outlet Norte
+2024-04-09,24,Auriculares Inalámbricos Bluetooth,4,1849.96,6,Stark Industries,16,Online Electronics
+2024-04-06,2,lavadora 8kg,2,900.0,1,ACME Corp,23,Virtual Store Pro
+2024-04-09,23,Cámara Digital 20MP,3,768.66,9,Pied Piper,18,Outlet Grand Rapids
+2024-03-31,11,phone,1,150.0,19,Clark LLC,13,ElectroShop Norte
+2024-04-06,27,"Monitor 24"" Full HD",3,1087.89,26,Willis Ltd,13,ElectroShop Norte
+2024-04-16,18,Smartphone Plegable 512GB,1,273.17,25,Scott-Johnson,9,Tienda Online Plus
+2024-03-03,4,microondas 20l,1,100.0,24,Horton Inc,2,Tienda Central
+2024-03-04,27,"Monitor 24"" Full HD",1,362.63,20,Armstrong-Rice,4,ElectroShop Sur
+2024-04-02,2,lavadora 8kg,1,450.0,4,Umbrella Corp,28,Outlet Philadelphia
+2024-03-12,8,"computadora portátil 15""",1,650.0,25,Scott-Johnson,13,ElectroShop Norte
+2024-03-18,18,Smartphone Plegable 512GB,1,273.17,20,Armstrong-Rice,4,ElectroShop Sur
+2024-03-15,21,"Televisor OLED 55"" Smart TV",5,3095.75,20,Armstrong-Rice,25,Online Electronics
+2024-04-30,21,"Televisor OLED 55"" Smart TV",4,2476.6,5,Weyland-Yutani,4,ElectroShop Sur
+2024-04-18,25,Auriculares con Cancelación de Ruido,2,786.28,10,Hooli,27,Outlet Miami
+2024-04-14,4,microondas 20l,1,100.0,1,ACME Corp,9,Tienda Online Plus
+2024-04-15,21,"Televisor OLED 55"" Smart TV",2,1238.3,26,Willis Ltd,28,Outlet Philadelphia
+2024-04-13,5,aspiradora sin bolsa,3,750.0,15,razon social no informada,5,Tienda Premium
+2024-04-06,27,"Monitor 24"" Full HD",1,362.63,6,Stark Industries,9,Tienda Online Plus
+2024-03-23,18,Smartphone Plegable 512GB,2,546.34,5,Weyland-Yutani,12,Outlet Sur
+2024-03-27,20,"Televisor LED 43"" 4K UHD",1,500.21,24,Horton Inc,28,Outlet Philadelphia
+2024-03-07,14,refrigerador simple puerta,1,400.0,24,Horton Inc,1,ElectroShop Online
+2024-04-17,14,refrigerador simple puerta,2,800.0,10,Hooli,24,ElectroShop Online Plus
+2024-04-03,30,"Monitor 24"" Full HD",1,730.43,3,Initech,16,Online Electronics
+2024-03-18,20,"Televisor LED 43"" 4K UHD",3,1500.63,17,Williams Ltd,12,Outlet Sur
+2024-03-21,17,Smartphone Plegable 512GB,2,358.6,30,Pearson-Grant,15,ElectroShop Phoenix
+2024-03-23,9,"tablet 10""",1,400.0,28,Ortiz PLC,17,Electronics Austin
+2024-04-02,13,lavadora 10kg,1,650.0,8,Dunder Mifflin,19,Tienda Boston Center
+2024-03-07,22,Consola de Videojuegos,2,911.02,3,Initech,28,Outlet Philadelphia
+2024-03-01,16,Amplificador de Audio,1,294.11,1,ACME Corp,19,Tienda Boston Center
+2024-03-21,30,"Monitor 24"" Full HD",3,2191.29,25,Scott-Johnson,16,Online Electronics
+2024-04-25,25,Auriculares con Cancelación de Ruido,3,1179.42,25,Scott-Johnson,27,Outlet Miami
+2024-04-29,4,microondas 20l,2,200.0,17,Williams Ltd,17,Electronics Austin
+2024-04-18,11,phone,2,300.0,15,razon social no informada,7,Tienda Express
+2024-03-24,24,Auriculares Inalámbricos Bluetooth,3,1387.47,19,Clark LLC,23,Virtual Store Pro
+2024-04-11,17,Smartphone Plegable 512GB,2,358.6,3,Initech,29,Outlet Seattle
+2024-03-15,19,Soundbar 2.1 Canales,2,1072.88,25,Scott-Johnson,2,Tienda Central
+2024-03-31,14,refrigerador simple puerta,1,400.0,22,Crosby-Robinson,3,Outlet Norte
+2024-04-01,3,refrigerador doble puerta,1,750.0,6,Stark Industries,23,Virtual Store Pro
+2024-04-24,14,refrigerador simple puerta,1,400.0,29,Jones-Carter,7,Tienda Express
+2024-04-30,16,Amplificador de Audio,3,882.33,2,Globex Corporation,19,Tienda Boston Center
+2024-04-08,1,"televisor led 55""",2,1000.0,15,razon social no informada,10,ElectroShop California
+2024-04-29,28,Micrófono USB para Streaming,2,607.32,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-04-28,3,refrigerador doble puerta,2,1500.0,26,Willis Ltd,9,Tienda Online Plus
+2024-04-19,20,"Televisor LED 43"" 4K UHD",1,500.21,2,Globex Corporation,8,ElectroShop Este
+2024-04-21,2,lavadora 8kg,5,2250.0,20,Armstrong-Rice,19,Tienda Boston Center
+2024-03-19,16,Amplificador de Audio,4,1176.44,8,Dunder Mifflin,21,Online Electronics
+2024-03-18,2,lavadora 8kg,2,900.0,27,Phelps PLC,2,Tienda Central
+2024-04-30,19,Soundbar 2.1 Canales,1,536.44,30,Pearson-Grant,16,Online Electronics
+2024-04-07,25,Auriculares con Cancelación de Ruido,2,786.28,20,Armstrong-Rice,26,Virtual Store Pro
+2024-04-07,2,lavadora 8kg,3,1350.0,3,Initech,1,ElectroShop Online
+2024-04-19,4,microondas 20l,1,100.0,5,Weyland-Yutani,25,Online Electronics
+2024-04-24,24,Auriculares Inalámbricos Bluetooth,2,924.98,14,Biohazard Inc,11,Tienda Norte
+2024-04-03,5,aspiradora sin bolsa,3,750.0,30,Pearson-Grant,16,Online Electronics
+2024-03-20,13,lavadora 10kg,2,1300.0,2,Globex Corporation,22,Electronics San Francisco
+2024-03-18,14,refrigerador simple puerta,2,800.0,7,Wayne Enterprises,18,Outlet Grand Rapids
+2024-04-11,26,Smartphone 128GB 5G,3,1703.88,25,Scott-Johnson,26,Virtual Store Pro
+2024-03-11,28,Micrófono USB para Streaming,1,303.66,27,Phelps PLC,18,Outlet Grand Rapids
+2024-03-15,20,"Televisor LED 43"" 4K UHD",2,1000.42,14,Biohazard Inc,22,Electronics San Francisco
+2024-04-25,11,phone,1,150.0,22,Crosby-Robinson,5,Tienda Premium
+2024-04-09,22,Consola de Videojuegos,1,455.51,9,Pied Piper,10,ElectroShop California
+2024-03-08,11,phone,1,150.0,20,Armstrong-Rice,18,Outlet Grand Rapids
+2024-04-11,29,Lavadora 15kg Carga Superior,3,3000.0,16,Baker-Johnson,28,Outlet Philadelphia
+2024-04-09,14,refrigerador simple puerta,2,800.0,6,Stark Industries,5,Tienda Premium
+2024-03-05,13,lavadora 10kg,3,1950.0,30,Pearson-Grant,15,ElectroShop Phoenix
+2024-03-25,16,Amplificador de Audio,1,294.11,26,Willis Ltd,8,ElectroShop Este
+2024-04-06,10,smartwatch,2,300.0,14,Biohazard Inc,30,ElectroShop Online Plus
+2024-04-12,29,Lavadora 15kg Carga Superior,5,5000.0,7,Wayne Enterprises,27,Outlet Miami
+2024-03-14,7,home theater 5.1,1,200.0,29,Jones-Carter,4,ElectroShop Sur
+2024-04-02,26,Smartphone 128GB 5G,1,567.96,7,Wayne Enterprises,27,Outlet Miami
+2024-04-07,10,smartwatch,2,300.0,24,Horton Inc,17,Electronics Austin
+2024-03-24,5,aspiradora sin bolsa,1,250.0,18,Thompson-Payne,26,Virtual Store Pro
+2024-03-04,17,Smartphone Plegable 512GB,1,179.3,14,Biohazard Inc,3,Outlet Norte
+2024-04-01,1,"televisor led 55""",1,500.0,2,Globex Corporation,22,Electronics San Francisco
+2024-03-06,5,aspiradora sin bolsa,1,250.0,29,Jones-Carter,30,ElectroShop Online Plus
+2024-03-18,6,licuadora 600w,4,280.0,23,"Perkins, Mayo and Richards",14,sin descripcion
+2024-03-12,24,Auriculares Inalámbricos Bluetooth,1,462.49,2,Globex Corporation,26,Virtual Store Pro
+2024-03-09,22,Consola de Videojuegos,4,1822.04,14,Biohazard Inc,4,ElectroShop Sur
+2024-04-25,10,smartwatch,2,300.0,21,Clark-Rodriguez,21,Online Electronics
+2024-03-24,23,Cámara Digital 20MP,1,256.22,9,Pied Piper,3,Outlet Norte
+2024-03-03,29,Lavadora 15kg Carga Superior,4,4000.0,6,Stark Industries,15,ElectroShop Phoenix
+2024-04-18,25,Auriculares con Cancelación de Ruido,1,393.14,28,Ortiz PLC,14,sin descripcion
+2024-04-10,13,lavadora 10kg,1,650.0,14,Biohazard Inc,26,Virtual Store Pro
+2024-03-29,19,Soundbar 2.1 Canales,2,1072.88,22,Crosby-Robinson,18,Outlet Grand Rapids
+2024-04-11,9,"tablet 10""",1,400.0,8,Dunder Mifflin,19,Tienda Boston Center
+2024-03-10,18,Smartphone Plegable 512GB,1,273.17,26,Willis Ltd,5,Tienda Premium
+2024-03-14,20,"Televisor LED 43"" 4K UHD",2,1000.42,16,Baker-Johnson,15,ElectroShop Phoenix
+2024-04-06,2,lavadora 8kg,1,450.0,9,Pied Piper,11,Tienda Norte
+2024-04-03,13,lavadora 10kg,1,650.0,26,Willis Ltd,24,ElectroShop Online Plus
+2024-03-17,4,microondas 20l,1,100.0,3,Initech,26,Virtual Store Pro
+2024-04-14,17,Smartphone Plegable 512GB,2,358.6,4,Umbrella Corp,4,ElectroShop Sur
+2024-04-01,10,smartwatch,3,450.0,1,ACME Corp,1,ElectroShop Online
+2024-03-28,17,Smartphone Plegable 512GB,1,179.3,21,Clark-Rodriguez,1,ElectroShop Online
+2024-03-27,9,"tablet 10""",2,800.0,3,Initech,3,Outlet Norte
+2024-03-07,7,home theater 5.1,1,200.0,7,Wayne Enterprises,13,ElectroShop Norte
+2024-04-16,27,"Monitor 24"" Full HD",1,362.63,2,Globex Corporation,29,Outlet Seattle
+2024-03-13,17,Smartphone Plegable 512GB,1,179.3,19,Clark LLC,13,ElectroShop Norte
+2024-03-15,20,"Televisor LED 43"" 4K UHD",1,500.21,14,Biohazard Inc,29,Outlet Seattle
+2024-03-20,10,smartwatch,1,150.0,25,Scott-Johnson,24,ElectroShop Online Plus
+2024-03-09,16,Amplificador de Audio,3,882.33,9,Pied Piper,14,sin descripcion
+2024-04-19,19,Soundbar 2.1 Canales,3,1609.32,17,Williams Ltd,14,sin descripcion
+2024-03-11,6,licuadora 600w,1,70.0,25,Scott-Johnson,13,ElectroShop Norte
+2024-04-22,27,"Monitor 24"" Full HD",1,362.63,23,"Perkins, Mayo and Richards",4,ElectroShop Sur
+2024-03-27,4,microondas 20l,2,200.0,29,Jones-Carter,17,Electronics Austin
+2024-04-23,29,Lavadora 15kg Carga Superior,2,2000.0,30,Pearson-Grant,21,Online Electronics
+2024-04-22,16,Amplificador de Audio,1,294.11,9,Pied Piper,7,Tienda Express
+2024-04-06,20,"Televisor LED 43"" 4K UHD",1,500.21,22,Crosby-Robinson,17,Electronics Austin
+2024-03-05,7,home theater 5.1,2,400.0,25,Scott-Johnson,3,Outlet Norte
+2024-04-26,5,aspiradora sin bolsa,1,250.0,5,Weyland-Yutani,10,ElectroShop California
+2024-04-26,30,"Monitor 24"" Full HD",3,2191.29,10,Hooli,9,Tienda Online Plus
+2024-03-05,26,Smartphone 128GB 5G,1,567.96,27,Phelps PLC,25,Online Electronics
+2024-03-03,6,licuadora 600w,2,140.0,17,Williams Ltd,12,Outlet Sur
+2024-03-19,26,Smartphone 128GB 5G,3,1703.88,15,razon social no informada,19,Tienda Boston Center
+2024-04-11,18,Smartphone Plegable 512GB,2,546.34,9,Pied Piper,19,Tienda Boston Center
+2024-03-05,26,Smartphone 128GB 5G,1,567.96,10,Hooli,5,Tienda Premium
+2024-04-26,22,Consola de Videojuegos,5,2277.55,15,razon social no informada,8,ElectroShop Este
+2024-03-21,1,"televisor led 55""",1,500.0,22,Crosby-Robinson,18,Outlet Grand Rapids
+2024-03-27,7,home theater 5.1,1,200.0,2,Globex Corporation,7,Tienda Express
+2024-03-07,13,lavadora 10kg,1,650.0,15,razon social no informada,15,ElectroShop Phoenix
+2024-04-12,21,"Televisor OLED 55"" Smart TV",3,1857.45,30,Pearson-Grant,16,Online Electronics
+2024-03-24,2,lavadora 8kg,1,450.0,20,Armstrong-Rice,17,Electronics Austin
+2024-04-11,13,lavadora 10kg,1,650.0,29,Jones-Carter,22,Electronics San Francisco
+2024-04-30,8,"computadora portátil 15""",1,650.0,28,Ortiz PLC,22,Electronics San Francisco
+2024-03-02,22,Consola de Videojuegos,1,455.51,22,Crosby-Robinson,7,Tienda Express
+2024-04-19,24,Auriculares Inalámbricos Bluetooth,2,924.98,6,Stark Industries,18,Outlet Grand Rapids
+2024-04-04,3,refrigerador doble puerta,1,750.0,20,Armstrong-Rice,25,Online Electronics
+2024-04-27,1,"televisor led 55""",1,500.0,7,Wayne Enterprises,12,Outlet Sur
+2024-04-29,14,refrigerador simple puerta,4,1600.0,19,Clark LLC,6,ElectroShop Oeste
+2024-03-25,18,Smartphone Plegable 512GB,1,273.17,3,Initech,2,Tienda Central
+2024-04-15,19,Soundbar 2.1 Canales,1,536.44,2,Globex Corporation,5,Tienda Premium
+2024-04-14,20,"Televisor LED 43"" 4K UHD",5,2501.05,30,Pearson-Grant,8,ElectroShop Este
+2024-03-19,20,"Televisor LED 43"" 4K UHD",3,1500.63,15,razon social no informada,6,ElectroShop Oeste
+2024-03-02,19,Soundbar 2.1 Canales,2,1072.88,21,Clark-Rodriguez,11,Tienda Norte
+2024-03-03,23,Cámara Digital 20MP,1,256.22,14,Biohazard Inc,1,ElectroShop Online
+2024-03-04,6,licuadora 600w,5,350.0,28,Ortiz PLC,5,Tienda Premium
+2024-03-30,27,"Monitor 24"" Full HD",3,1087.89,23,"Perkins, Mayo and Richards",14,sin descripcion
+2024-04-21,28,Micrófono USB para Streaming,2,607.32,4,Umbrella Corp,11,Tienda Norte
+2024-04-11,2,lavadora 8kg,1,450.0,2,Globex Corporation,14,sin descripcion
+2024-03-18,30,"Monitor 24"" Full HD",1,730.43,19,Clark LLC,10,ElectroShop California
+2024-03-02,24,Auriculares Inalámbricos Bluetooth,1,462.49,1,ACME Corp,18,Outlet Grand Rapids
+2024-03-25,5,aspiradora sin bolsa,1,250.0,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-04-22,8,"computadora portátil 15""",1,650.0,4,Umbrella Corp,25,Online Electronics
+2024-03-12,3,refrigerador doble puerta,2,1500.0,28,Ortiz PLC,6,ElectroShop Oeste
+2024-04-02,24,Auriculares Inalámbricos Bluetooth,2,924.98,21,Clark-Rodriguez,15,ElectroShop Phoenix
+2024-03-31,1,"televisor led 55""",1,500.0,27,Phelps PLC,12,Outlet Sur
+2024-03-21,9,"tablet 10""",1,400.0,4,Umbrella Corp,6,ElectroShop Oeste
+2024-04-11,9,"tablet 10""",2,800.0,25,Scott-Johnson,10,ElectroShop California
+2024-04-16,10,smartwatch,2,300.0,4,Umbrella Corp,28,Outlet Philadelphia
+2024-04-11,18,Smartphone Plegable 512GB,1,273.17,23,"Perkins, Mayo and Richards",22,Electronics San Francisco
+2024-04-21,25,Auriculares con Cancelación de Ruido,1,393.14,20,Armstrong-Rice,27,Outlet Miami
+2024-03-27,11,phone,1,150.0,23,"Perkins, Mayo and Richards",30,ElectroShop Online Plus
+2024-04-09,22,Consola de Videojuegos,2,911.02,21,Clark-Rodriguez,30,ElectroShop Online Plus
+2024-03-10,27,"Monitor 24"" Full HD",1,362.63,18,Thompson-Payne,17,Electronics Austin
+2024-03-26,11,phone,1,150.0,25,Scott-Johnson,17,Electronics Austin
+2024-04-21,1,"televisor led 55""",3,1500.0,18,Thompson-Payne,11,Tienda Norte
+2024-03-02,7,home theater 5.1,1,200.0,19,Clark LLC,27,Outlet Miami
+2024-04-26,22,Consola de Videojuegos,4,1822.04,14,Biohazard Inc,18,Outlet Grand Rapids
+2024-03-23,26,Smartphone 128GB 5G,3,1703.88,30,Pearson-Grant,18,Outlet Grand Rapids
+2024-03-29,27,"Monitor 24"" Full HD",1,362.63,18,Thompson-Payne,8,ElectroShop Este
+2024-03-31,25,Auriculares con Cancelación de Ruido,1,393.14,27,Phelps PLC,17,Electronics Austin
+2024-03-29,6,licuadora 600w,5,350.0,20,Armstrong-Rice,5,Tienda Premium
+2024-04-30,6,licuadora 600w,2,140.0,19,Clark LLC,29,Outlet Seattle
+2024-03-09,14,refrigerador simple puerta,3,1200.0,21,Clark-Rodriguez,12,Outlet Sur
+2024-03-12,22,Consola de Videojuegos,1,455.51,26,Willis Ltd,21,Online Electronics
+2024-03-30,20,"Televisor LED 43"" 4K UHD",2,1000.42,18,Thompson-Payne,12,Outlet Sur
+2024-03-07,13,lavadora 10kg,1,650.0,8,Dunder Mifflin,24,ElectroShop Online Plus
+2024-03-18,1,"televisor led 55""",2,1000.0,5,Weyland-Yutani,24,ElectroShop Online Plus
+2024-03-14,23,Cámara Digital 20MP,4,1024.88,29,Jones-Carter,20,TechStore Columbus
+2024-03-26,11,phone,1,150.0,6,Stark Industries,12,Outlet Sur
+2024-03-11,2,lavadora 8kg,1,450.0,1,ACME Corp,21,Online Electronics
+2024-04-03,10,smartwatch,1,150.0,1,ACME Corp,10,ElectroShop California
+2024-03-16,11,phone,1,150.0,22,Crosby-Robinson,10,ElectroShop California
+2024-04-17,9,"tablet 10""",2,800.0,19,Clark LLC,13,ElectroShop Norte
+2024-03-24,3,refrigerador doble puerta,1,750.0,16,Baker-Johnson,3,Outlet Norte
+2024-03-14,2,lavadora 8kg,1,450.0,10,Hooli,2,Tienda Central
+2024-03-22,25,Auriculares con Cancelación de Ruido,1,393.14,29,Jones-Carter,18,Outlet Grand Rapids
+2024-04-17,1,"televisor led 55""",1,500.0,26,Willis Ltd,2,Tienda Central
+2024-04-08,30,"Monitor 24"" Full HD",1,730.43,19,Clark LLC,22,Electronics San Francisco
+2024-04-14,18,Smartphone Plegable 512GB,1,273.17,20,Armstrong-Rice,21,Online Electronics
+2024-04-03,24,Auriculares Inalámbricos Bluetooth,4,1849.96,10,Hooli,26,Virtual Store Pro
+2024-04-23,13,lavadora 10kg,2,1300.0,28,Ortiz PLC,19,Tienda Boston Center
+2024-04-03,16,Amplificador de Audio,2,588.22,15,razon social no informada,7,Tienda Express
+2024-04-26,1,"televisor led 55""",5,2500.0,2,Globex Corporation,14,sin descripcion
+2024-04-24,8,"computadora portátil 15""",5,3250.0,29,Jones-Carter,8,ElectroShop Este
+2024-03-16,9,"tablet 10""",1,400.0,7,Wayne Enterprises,7,Tienda Express
+2024-04-14,24,Auriculares Inalámbricos Bluetooth,1,462.49,21,Clark-Rodriguez,30,ElectroShop Online Plus
+2024-03-25,20,"Televisor LED 43"" 4K UHD",1,500.21,29,Jones-Carter,29,Outlet Seattle
+2024-04-23,23,Cámara Digital 20MP,2,512.44,21,Clark-Rodriguez,4,ElectroShop Sur
+2024-04-07,25,Auriculares con Cancelación de Ruido,3,1179.42,30,Pearson-Grant,30,ElectroShop Online Plus
+2024-04-10,3,refrigerador doble puerta,4,3000.0,4,Umbrella Corp,16,Online Electronics
+2024-03-03,4,microondas 20l,2,200.0,6,Stark Industries,17,Electronics Austin
+2024-03-11,20,"Televisor LED 43"" 4K UHD",5,2501.05,27,Phelps PLC,10,ElectroShop California
+2024-03-20,10,smartwatch,1,150.0,8,Dunder Mifflin,5,Tienda Premium
+2024-03-24,28,Micrófono USB para Streaming,1,303.66,10,Hooli,1,ElectroShop Online
+2024-04-05,5,aspiradora sin bolsa,1,250.0,9,Pied Piper,23,Virtual Store Pro
+2024-04-08,24,Auriculares Inalámbricos Bluetooth,4,1849.96,3,Initech,19,Tienda Boston Center
+2024-04-24,4,microondas 20l,2,200.0,26,Willis Ltd,21,Online Electronics
+2024-03-29,14,refrigerador simple puerta,5,2000.0,9,Pied Piper,2,Tienda Central
+2024-04-01,27,"Monitor 24"" Full HD",2,725.26,5,Weyland-Yutani,8,ElectroShop Este
+2024-04-05,14,refrigerador simple puerta,3,1200.0,28,Ortiz PLC,26,Virtual Store Pro
+2024-03-27,5,aspiradora sin bolsa,2,500.0,14,Biohazard Inc,13,ElectroShop Norte
+2024-03-31,27,"Monitor 24"" Full HD",2,725.26,28,Ortiz PLC,1,ElectroShop Online

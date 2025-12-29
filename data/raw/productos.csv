@@ -1,0 +1,31 @@
+CodigoProducto,Descripcion,Categoria,Marca,PrecioCosto,PrecioVentaSugerido
+1,"Televisor LED 55""",Televisores,Samsung,400.0,500.0
+2,Lavadora 8kg,Electrodomésticos,LG,350.0,450.0
+3,Refrigerador Doble Puerta,Electrodomésticos,Whirlpool,600.0,750.0
+4,Microondas 20L,Electrodomésticos,Panasonic,80.0,100.0
+5,Aspiradora Sin Bolsa,Electrodomésticos,Dyson,200.0,250.0
+6,Licuadora 600W,Electrodomésticos,Oster,50.0,70.0
+7,Home Theater 5.1,Electrónica,Sony,150.0,200.0
+8,"Computadora Portátil 15""",Computadoras,HP,500.0,650.0
+9,"Tablet 10""",Electrónica,Apple,300.0,400.0
+10,Smartwatch,Electrónica,Garmin,120.0,150.0
+11,phone,Electrónica,Samsung,120.0,150.0
+12,"Televisor LED 55""",Televisores,,400.0,500.0
+13,Lavadora 10kg,Electrodomésticos,LG,,650.0
+14,Refrigerador Simple Puerta,,Whirlpool,500.0,
+15,Secadora de Ropa 8kg,Electrodomésticos,Whirlpool,305.14,376.67
+16,Amplificador de Audio,Audio,Audio-Technica,219.76,294.11
+17,Smartphone Plegable 512GB,Celulares,Xiaomi,126.62,179.3
+18,Smartphone Plegable 512GB,Celulares,Samsung,197.3,273.17
+19,Soundbar 2.1 Canales,Audio,Audio-Technica,383.86,536.44
+20,"Televisor LED 43"" 4K UHD",Televisores,Panasonic,407.15,500.21
+21,"Televisor OLED 55"" Smart TV",Televisores,Hisense,454.25,619.15
+22,Consola de Videojuegos,Electrónica,Huawei,348.29,455.51
+23,Cámara Digital 20MP,Electrónica,Apple,176.57,256.22
+24,Auriculares Inalámbricos Bluetooth,Electrónica,Samsung,366.25,462.49
+25,Auriculares con Cancelación de Ruido,Audio,Samsung,276.62,393.14
+26,Smartphone 128GB 5G,Celulares,Motorola,394.8,567.96
+27,"Monitor 24"" Full HD",Computadoras,Apple,264.56,362.63
+28,Micrófono USB para Streaming,Audio,Bose,231.26,303.66
+29,Lavadora 15kg Carga Superior,Electrodomésticos,Electrolux,771.32,1000.0
+30,"Monitor 24"" Full HD",Computadoras,Acer,537.39,730.43
